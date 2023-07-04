@@ -14,7 +14,7 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install all necessary packages
-      run: pip install jupyter lxml pandas requests beautifulsoup4 playwright html5lib
+      run: pip install jupyter lxml pandas requests beautifulsoup4 html5lib
     - name: Scraping today's data
       run: jupyter nbconvert --to notebook --execute "transfer_scraping.ipynb" --stdout
     - name: Make the aggregated tables
