@@ -27,33 +27,39 @@
 5,AFC Bournemouth,Junior StanislasJ. Stanislas,33,Left Winger,LW,€500k,Without Club,-,Out,
 6,AFC Bournemouth,Matías ViñaM. Viña,25,Left-Back,LB,€8.00m,AS Roma,"End of loan Jun 30, 2023",Out,
 7,AFC Bournemouth,Hamed Junior TraorèH. Traorè,23,Attacking Midfield,AM,€22.00m,Sassuolo,"End of loan Jun 30, 2023",Out,
-0,Brentford FC,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,SC Freiburg,€25.00m,In,€25.00m
-1,Brentford FC,Mark FlekkenM. Flekken,30,Goalkeeper,GK,€10.00m,SC Freiburg,€13.00m,In,€13.00m
-2,Brentford FC,Yegor YarmolyukY. Yarmolyuk,19,Attacking Midfield,AM,€400k,Brentford B,-,In,
-3,Brentford FC,Ryan TrevittR. Trevitt,20,Central Midfield,CM,€100k,Brentford B,-,In,
-4,Brentford FC,Mads BidstrupM. Bidstrup,22,Central Midfield,CM,€2.50m,Nordsjaelland,"End of loan Jun 30, 2023",In,
-5,Brentford FC,Joel ValenciaJ. Valencia,28,Right Winger,RW,€400k,De Graafschap,"End of loan Jun 30, 2023",In,
-6,Brentford FC,Mads Bech SörensenM. Bech Sörensen,24,Centre-Back,CB,€2.50m,FC Groningen,"End of loan Jun 30, 2023",In,
-7,Brentford FC,Sergi CanósS. Canós,26,Right Winger,RW,€9.00m,Olympiacos,"End of loan Jun 30, 2023",In,
-8,Brentford FC,Fin StevensF. Stevens,21,Right-Back,RB,€300k,Oxford United,"End of loan May 31, 2024",In,
+0,Brentford FC,Nathan CollinsN. Collins,22,Centre-Back,CB,€22.00m,Wolves,€26.85m,In,€26.85m
+1,Brentford FC,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,SC Freiburg,€25.00m,In,€25.00m
+2,Brentford FC,Mark FlekkenM. Flekken,30,Goalkeeper,GK,€10.00m,SC Freiburg,€13.00m,In,€13.00m
+3,Brentford FC,Yegor YarmolyukY. Yarmolyuk,19,Attacking Midfield,AM,€400k,Brentford B,-,In,
+4,Brentford FC,Ryan TrevittR. Trevitt,20,Central Midfield,CM,€100k,Brentford B,-,In,
+5,Brentford FC,Mads BidstrupM. Bidstrup,22,Central Midfield,CM,€2.50m,Nordsjaelland,"End of loan Jun 30, 2023",In,
+6,Brentford FC,Joel ValenciaJ. Valencia,28,Right Winger,RW,€300k,De Graafschap,"End of loan Jun 30, 2023",In,
+7,Brentford FC,Mads Bech SörensenM. Bech Sörensen,24,Centre-Back,CB,€2.50m,FC Groningen,"End of loan Jun 30, 2023",In,
+8,Brentford FC,Sergi CanósS. Canós,26,Right Winger,RW,€9.00m,Olympiacos,"End of loan Jun 30, 2023",In,
+9,Brentford FC,Fin StevensF. Stevens,21,Right-Back,RB,€300k,Oxford United,"End of loan May 31, 2024",In,
 0,Brentford FC,Pontus JanssonP. Jansson,32,Centre-Back,CB,€2.50m,Malmö FF,free transfer,Out,
 1,Brentford FC,Saman GhoddosS. Ghoddos,29,Attacking Midfield,AM,€2.00m,Without Club,-,Out,
-2,Brentford FC,Joel ValenciaJ. Valencia,28,Right Winger,RW,€400k,Without Club,-,Out,
+2,Brentford FC,Joel ValenciaJ. Valencia,28,Right Winger,RW,€300k,Without Club,-,Out,
 3,Brentford FC,Tariqe FosuT. Fosu,27,Left Winger,LW,€1.80m,Without Club,-,Out,
 4,Brentford FC,Fin StevensF. Stevens,20,Right-Back,RB,€300k,Oxford United,loan transfer,Out,
 5,Brentford FC,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,SC Freiburg,"End of loan Jun 30, 2023",Out,
 0,Brighton & Hove Albion,João PedroJoão Pedro,21,Centre-Forward,CF,€32.00m,Watford,€34.20m,In,€34.20m
 1,Brighton & Hove Albion,Bart VerbruggenB. Verbruggen,20,Goalkeeper,GK,€10.00m,RSC Anderlecht,€20.00m,In,€20.00m
-2,Brighton & Hove Albion,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Bor. Dortmund,free transfer,In,
-3,Brighton & Hove Albion,James MilnerJ. Milner,37,Central Midfield,CM,€1.50m,Liverpool,free transfer,In,
-4,Brighton & Hove Albion,Steven AlzateS. Alzate,24,Central Midfield,CM,€4.00m,Standard Liège,"End of loan Jun 30, 2023",In,
-5,Brighton & Hove Albion,Kacper KozlowskiK. Kozlowski,19,Central Midfield,CM,€8.00m,Vitesse,"End of loan Jun 30, 2023",In,
-6,Brighton & Hove Albion,Kjell ScherpenK. Scherpen,23,Goalkeeper,GK,€2.00m,Vitesse,"End of loan Jun 30, 2023",In,
-7,Brighton & Hove Albion,Michal KarbownikM. Karbownik,22,Left-Back,LB,€3.00m,F. Düsseldorf,"End of loan Jun 30, 2023",In,
-8,Brighton & Hove Albion,Andi ZeqiriA. Zeqiri,24,Centre-Forward,CF,€3.50m,FC Basel,"End of loan Jun 30, 2023",In,
-9,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Angers SCO,"End of loan Jun 30, 2023",In,
+2,Brighton & Hove Albion,James MilnerJ. Milner,37,Central Midfield,CM,€1.50m,Liverpool,free transfer,In,
+3,Brighton & Hove Albion,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Bor. Dortmund,free transfer,In,
+4,Brighton & Hove Albion,Marc LeonardM. Leonard,21,Central Midfield,CM,€300k,Brighton U21,-,In,
+5,Brighton & Hove Albion,Reda KhadraR. Khadra,21,Attacking Midfield,AM,€1.40m,Brighton U21,-,In,
+6,Brighton & Hove Albion,Ed TurnsEd Turns,20,Centre-Back,CB,€350k,Brighton U21,-,In,
+7,Brighton & Hove Albion,Carl RushworthC. Rushworth,21,Goalkeeper,GK,€900k,Brighton U21,-,In,
+8,Brighton & Hove Albion,Andy MoranA. Moran,19,Attacking Midfield,AM,€300k,Brighton U21,-,In,
+9,Brighton & Hove Albion,Steven AlzateS. Alzate,24,Central Midfield,CM,€4.00m,Standard Liège,"End of loan Jun 30, 2023",In,
 10,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Rangers,"End of loan May 31, 2024",In,
-11,Brighton & Hove Albion,Simon AdingraS. Adingra,21,Left Winger,LW,€10.00m,Union SG,"End of loan Jun 30, 2023",In,
+11,Brighton & Hove Albion,Kacper KozlowskiK. Kozlowski,19,Central Midfield,CM,€8.00m,Vitesse,"End of loan Jun 30, 2023",In,
+12,Brighton & Hove Albion,Kjell ScherpenK. Scherpen,23,Goalkeeper,GK,€2.00m,Vitesse,"End of loan Jun 30, 2023",In,
+13,Brighton & Hove Albion,Michal KarbownikM. Karbownik,22,Left-Back,LB,€3.00m,F. Düsseldorf,"End of loan Jun 30, 2023",In,
+14,Brighton & Hove Albion,Andi ZeqiriA. Zeqiri,24,Centre-Forward,CF,€3.50m,FC Basel,"End of loan Jun 30, 2023",In,
+15,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Angers SCO,"End of loan Jun 30, 2023",In,
+16,Brighton & Hove Albion,Simon AdingraS. Adingra,21,Left Winger,LW,€10.00m,Union SG,"End of loan Jun 30, 2023",In,
 0,Brighton & Hove Albion,Alexis Mac AllisterA. Mac Allister,24,Attacking Midfield,AM,€65.00m,Liverpool,€42.00m,Out,€42.00m
 1,Brighton & Hove Albion,Haydon RobertsH. Roberts,21,Left-Back,LB,€700k,Bristol City,free transfer,Out,
 2,Brighton & Hove Albion,Taylor RichardsT. Richards,22,Central Midfield,CM,€400k,QPR,?,Out,
@@ -158,8 +164,8 @@
 4,Manchester United,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Crystal Palace,"End of loan Jun 30, 2023",Out,
 5,Manchester United,Wout WeghorstW. Weghorst,30,Centre-Forward,CF,€12.00m,Burnley,"End of loan Jun 30, 2023",Out,
 6,Manchester United,Marcel SabitzerM. Sabitzer,29,Central Midfield,CM,€20.00m,Bayern Munich,"End of loan Jun 30, 2023",Out,
-0,Newcastle United,Sandro TonaliS. Tonali,23,Defensive Midfield,DM,€50.00m,AC Milan,€70.00m,In,€70.00m
-1,Newcastle United,Yankuba MintehY. Minteh,18,Right Winger,RW,€2.00m,Odense BK,€7.00m,In,€7.00m
+0,Newcastle United,Sandro TonaliS. Tonali,23,Defensive Midfield,DM,€50.00m,AC Milan,€64.00m,In,€64.00m
+1,Newcastle United,Yankuba MintehY. Minteh,18,Right Winger,RW,€2.00m,Odense BK,€8.00m,In,€8.00m
 2,Newcastle United,Garang KuolG. Kuol,18,Right Winger,RW,€800k,Heart of Midl.,"End of loan Jun 30, 2023",In,
 3,Newcastle United,Chris WoodC. Wood,31,Centre-Forward,CF,€8.00m,Nottm Forest,"End of loan Jun 30, 2023",In,
 0,Newcastle United,Chris WoodC. Wood,31,Centre-Forward,CF,€8.00m,Nottm Forest,€17.00m,Out,€17.00m
@@ -185,10 +191,11 @@
 8,Nottingham Forest,Chris WoodC. Wood,31,Centre-Forward,CF,€8.00m,Newcastle,"End of loan Jun 30, 2023",Out,
 9,Nottingham Forest,Renan LodiR. Lodi,25,Left-Back,LB,€20.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
 0,Sheffield United,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
-0,Sheffield United,Enda StevensE. Stevens,32,Left-Back,LB,€600k,Without Club,-,Out,
-1,Sheffield United,Billy SharpB. Sharp,37,Centre-Forward,CF,€300k,Without Club,-,Out,
-2,Sheffield United,Jack O'ConnellJ. O'Connell,29,Centre-Back,CB,€1.20m,Without Club,-,Out,
-3,Sheffield United,Kyron GordonK. Gordon,21,Centre-Back,CB,€250k,Without Club,-,Out,
+0,Sheffield United,Jake EastwoodJ. Eastwood,26,Goalkeeper,GK,€100k,Grimsby Town,?,Out,
+1,Sheffield United,Enda StevensE. Stevens,32,Left-Back,LB,€600k,Without Club,-,Out,
+2,Sheffield United,Billy SharpB. Sharp,37,Centre-Forward,CF,€300k,Without Club,-,Out,
+3,Sheffield United,Jack O'ConnellJ. O'Connell,29,Centre-Back,CB,€1.20m,Without Club,-,Out,
+4,Sheffield United,Kyron GordonK. Gordon,21,Centre-Back,CB,€250k,Without Club,-,Out,
 0,Tottenham Hotspur,James MaddisonJ. Maddison,26,Attacking Midfield,AM,€60.00m,Leicester,€46.30m,In,€46.30m
 1,Tottenham Hotspur,Pedro PorroP. Porro,23,Right-Back,RB,€40.00m,Sporting CP,€40.00m,In,€40.00m
 2,Tottenham Hotspur,Dejan KulusevskiD. Kulusevski,23,Right Winger,RW,€50.00m,Juventus,€30.00m,In,€30.00m
@@ -213,16 +220,19 @@
 1,West Ham United,Manuel LanziniM. Lanzini,30,Attacking Midfield,AM,€6.00m,Without Club,-,Out,
 0,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,€11.00m,In,€11.00m
 1,Wolverhampton Wanderers,Tom KingTom King,28,Goalkeeper,GK,€175k,Northampton,free transfer,In,
-2,Wolverhampton Wanderers,Bendegúz BollaB. Bolla,23,Right-Back,RB,€2.70m,Grasshoppers,"End of loan Jun 30, 2023",In,
-3,Wolverhampton Wanderers,Hayao KawabeH. Kawabe,27,Central Midfield,CM,€2.80m,Grasshoppers,"End of loan Jun 30, 2023",In,
-4,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Everton,"End of loan Jun 30, 2023",In,
-5,Wolverhampton Wanderers,Bruno JordãoB. Jordão,24,Central Midfield,CM,€1.30m,Santa Clara,"End of loan Jun 30, 2023",In,
+2,Wolverhampton Wanderers,Dion SandersonD. Sanderson,23,Centre-Back,CB,€4.00m,Wolves U21,-,In,
+3,Wolverhampton Wanderers,Ryan GilesR. Giles,23,Left-Back,LB,€9.00m,Wolves U21,-,In,
+4,Wolverhampton Wanderers,Bendegúz BollaB. Bolla,23,Right-Back,RB,€2.70m,Grasshoppers,"End of loan Jun 30, 2023",In,
+5,Wolverhampton Wanderers,Fábio SilvaF. Silva,20,Centre-Forward,CF,€13.00m,PSV Eindhoven,"End of loan Jun 30, 2023",In,
 6,Wolverhampton Wanderers,Gonçalo GuedesG. Guedes,26,Left Winger,LW,€23.00m,Benfica,"End of loan Jun 30, 2023",In,
-7,Wolverhampton Wanderers,Fábio SilvaF. Silva,20,Centre-Forward,CF,€13.00m,PSV Eindhoven,"End of loan Jun 30, 2023",In,
+7,Wolverhampton Wanderers,Bruno JordãoB. Jordão,24,Central Midfield,CM,€1.30m,Santa Clara,"End of loan Jun 30, 2023",In,
+8,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Everton,"End of loan Jun 30, 2023",In,
+9,Wolverhampton Wanderers,Hayao KawabeH. Kawabe,27,Central Midfield,CM,€2.80m,Grasshoppers,"End of loan Jun 30, 2023",In,
 0,Wolverhampton Wanderers,Rúben NevesR. Neves,26,Defensive Midfield,DM,€40.00m,Al-Hilal,€55.00m,Out,€55.00m
-1,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Leicester,€8.70m,Out,€8.70m
-2,Wolverhampton Wanderers,João MoutinhoJ. Moutinho,36,Central Midfield,CM,€1.50m,Without Club,-,Out,
-3,Wolverhampton Wanderers,Diego CostaD. Costa,34,Centre-Forward,CF,€2.00m,Without Club,-,Out,
+1,Wolverhampton Wanderers,Nathan CollinsN. Collins,22,Centre-Back,CB,€22.00m,Brentford,€26.85m,Out,€26.85m
+2,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Leicester,€8.70m,Out,€8.70m
+3,Wolverhampton Wanderers,João MoutinhoJ. Moutinho,36,Central Midfield,CM,€1.50m,Without Club,-,Out,
 4,Wolverhampton Wanderers,Adama TraoréA. Traoré,27,Right Winger,RW,€10.00m,Without Club,-,Out,
-5,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,"End of loan Jun 30, 2023",Out,
+5,Wolverhampton Wanderers,Diego CostaD. Costa,34,Centre-Forward,CF,€2.00m,Without Club,-,Out,
 6,Wolverhampton Wanderers,Matheus CunhaM. Cunha,24,Centre-Forward,CF,€25.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
+7,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,"End of loan Jun 30, 2023",Out,
