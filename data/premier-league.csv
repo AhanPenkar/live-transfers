@@ -1,5 +1,5 @@
 ,club_name,player_name,Age,Position,Pos,Market value,club_involved_name,Fee,transfer_movement,fee_cleaned
-0,Arsenal FC,Kai HavertzK. Havertz,24,Centre-Forward,CF,€55.00m,Chelsea,€70.00m,In,€70.00m
+0,Arsenal FC,Kai HavertzK. Havertz,24,Attacking Midfield,AM,€55.00m,Chelsea,€70.00m,In,€70.00m
 1,Arsenal FC,Nuno TavaresN. Tavares,23,Left-Back,LB,€18.00m,Marseille,"End of loan Jun 30, 2023",In,
 2,Arsenal FC,Folarin BalogunF. Balogun,21,Centre-Forward,CF,€30.00m,Stade Reims,"End of loan Jun 30, 2023",In,
 3,Arsenal FC,Pablo MaríP. Marí,29,Centre-Back,CB,€5.00m,Monza,"End of loan Jun 30, 2023",In,
@@ -45,25 +45,26 @@
 5,Brentford FC,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,SC Freiburg,"End of loan Jun 30, 2023",Out,
 0,Brighton & Hove Albion,João PedroJoão Pedro,21,Centre-Forward,CF,€32.00m,Watford,€34.20m,In,€34.20m
 1,Brighton & Hove Albion,Bart VerbruggenB. Verbruggen,20,Goalkeeper,GK,€10.00m,RSC Anderlecht,€20.00m,In,€20.00m
-2,Brighton & Hove Albion,James MilnerJ. Milner,37,Central Midfield,CM,€1.50m,Liverpool,free transfer,In,
-3,Brighton & Hove Albion,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Bor. Dortmund,free transfer,In,
-4,Brighton & Hove Albion,Marc LeonardM. Leonard,21,Central Midfield,CM,€300k,Brighton U21,-,In,
-5,Brighton & Hove Albion,Reda KhadraR. Khadra,21,Attacking Midfield,AM,€1.40m,Brighton U21,-,In,
+2,Brighton & Hove Albion,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Bor. Dortmund,free transfer,In,
+3,Brighton & Hove Albion,James MilnerJ. Milner,37,Central Midfield,CM,€1.50m,Liverpool,free transfer,In,
+4,Brighton & Hove Albion,Andy MoranA. Moran,19,Attacking Midfield,AM,€300k,Brighton U21,-,In,
+5,Brighton & Hove Albion,Carl RushworthC. Rushworth,21,Goalkeeper,GK,€900k,Brighton U21,-,In,
 6,Brighton & Hove Albion,Ed TurnsEd Turns,20,Centre-Back,CB,€350k,Brighton U21,-,In,
-7,Brighton & Hove Albion,Carl RushworthC. Rushworth,21,Goalkeeper,GK,€900k,Brighton U21,-,In,
-8,Brighton & Hove Albion,Andy MoranA. Moran,19,Attacking Midfield,AM,€300k,Brighton U21,-,In,
+7,Brighton & Hove Albion,Reda KhadraR. Khadra,21,Attacking Midfield,AM,€1.40m,Brighton U21,-,In,
+8,Brighton & Hove Albion,Marc LeonardM. Leonard,21,Central Midfield,CM,€300k,Brighton U21,-,In,
 9,Brighton & Hove Albion,Steven AlzateS. Alzate,24,Central Midfield,CM,€4.00m,Standard Liège,"End of loan Jun 30, 2023",In,
-10,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Rangers,"End of loan May 31, 2024",In,
-11,Brighton & Hove Albion,Kacper KozlowskiK. Kozlowski,19,Central Midfield,CM,€8.00m,Vitesse,"End of loan Jun 30, 2023",In,
-12,Brighton & Hove Albion,Kjell ScherpenK. Scherpen,23,Goalkeeper,GK,€2.00m,Vitesse,"End of loan Jun 30, 2023",In,
-13,Brighton & Hove Albion,Michal KarbownikM. Karbownik,22,Left-Back,LB,€3.00m,F. Düsseldorf,"End of loan Jun 30, 2023",In,
-14,Brighton & Hove Albion,Andi ZeqiriA. Zeqiri,24,Centre-Forward,CF,€3.50m,FC Basel,"End of loan Jun 30, 2023",In,
+10,Brighton & Hove Albion,Kacper KozlowskiK. Kozlowski,19,Central Midfield,CM,€8.00m,Vitesse,"End of loan Jun 30, 2023",In,
+11,Brighton & Hove Albion,Kjell ScherpenK. Scherpen,23,Goalkeeper,GK,€2.00m,Vitesse,"End of loan Jun 30, 2023",In,
+12,Brighton & Hove Albion,Michal KarbownikM. Karbownik,22,Left-Back,LB,€3.00m,F. Düsseldorf,"End of loan Jun 30, 2023",In,
+13,Brighton & Hove Albion,Andi ZeqiriA. Zeqiri,24,Centre-Forward,CF,€3.50m,FC Basel,"End of loan Jun 30, 2023",In,
+14,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Rangers,"End of loan May 31, 2024",In,
 15,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Angers SCO,"End of loan Jun 30, 2023",In,
 16,Brighton & Hove Albion,Simon AdingraS. Adingra,21,Left Winger,LW,€10.00m,Union SG,"End of loan Jun 30, 2023",In,
 0,Brighton & Hove Albion,Alexis Mac AllisterA. Mac Allister,24,Attacking Midfield,AM,€65.00m,Liverpool,€42.00m,Out,€42.00m
 1,Brighton & Hove Albion,Haydon RobertsH. Roberts,21,Left-Back,LB,€700k,Bristol City,free transfer,Out,
 2,Brighton & Hove Albion,Taylor RichardsT. Richards,22,Central Midfield,CM,€400k,QPR,?,Out,
-3,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Rangers,loan transfer,Out,
+3,Brighton & Hove Albion,Kjell ScherpenK. Scherpen,23,Goalkeeper,GK,€2.00m,Sturm Graz,loan transfer,Out,
+4,Brighton & Hove Albion,Abdallah SimaA. Sima,22,Right Winger,RW,€6.00m,Rangers,loan transfer,Out,
 0,Burnley FC,Jordan BeyerJ. Beyer,23,Centre-Back,CB,€16.00m,Bor. M'gladbach,€15.00m,In,€15.00m
 1,Burnley FC,Dara O'SheaD. O'Shea,24,Centre-Back,CB,€5.00m,West Brom,€7.80m,In,€7.80m
 2,Burnley FC,Lawrence VigourouxL. Vigouroux,29,Goalkeeper,GK,€300k,Leyton Orient,free transfer,In,
@@ -80,22 +81,23 @@
 3,Chelsea FC,Levi ColwillL. Colwill,20,Centre-Back,CB,€30.00m,Chelsea U21,-,In,
 4,Chelsea FC,Lewis HallL. Hall,18,Left-Back,LB,€10.00m,Chelsea U21,-,In,
 5,Chelsea FC,Romelu LukakuR. Lukaku,30,Centre-Forward,CF,€40.00m,Inter,"End of loan Jun 30, 2023",In,
-6,Chelsea FC,Callum Hudson-OdoiC. Hudson-Odoi,22,Left Winger,LW,€15.00m,B. Leverkusen,"End of loan Jun 30, 2023",In,
-7,Chelsea FC,Malang SarrM. Sarr,24,Centre-Back,CB,€6.00m,Monaco,"End of loan Jun 30, 2023",In,
-8,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,AC Milan,"End of loan Jun 30, 2023",In,
-9,Chelsea FC,Andrey SantosAndrey Santos,19,Central Midfield,CM,€15.00m,Vasco da Gama,"End of loan Jun 30, 2023",In,
-10,Chelsea FC,Malo GustoM. Gusto,20,Right-Back,RB,€25.00m,Olympique Lyon,"End of loan Jun 30, 2023",In,
-11,Chelsea FC,Ethan AmpaduE. Ampadu,22,Centre-Back,CB,€9.00m,Spezia Calcio,"End of loan Jun 30, 2023",In,
-0,Chelsea FC,Kai HavertzK. Havertz,24,Centre-Forward,CF,€55.00m,Arsenal,€70.00m,Out,€70.00m
+6,Chelsea FC,Malang SarrM. Sarr,24,Centre-Back,CB,€6.00m,Monaco,"End of loan Jun 30, 2023",In,
+7,Chelsea FC,Callum Hudson-OdoiC. Hudson-Odoi,22,Left Winger,LW,€15.00m,B. Leverkusen,"End of loan Jun 30, 2023",In,
+8,Chelsea FC,Ethan AmpaduE. Ampadu,22,Centre-Back,CB,€9.00m,Spezia Calcio,"End of loan Jun 30, 2023",In,
+9,Chelsea FC,Malo GustoM. Gusto,20,Right-Back,RB,€25.00m,Olympique Lyon,"End of loan Jun 30, 2023",In,
+10,Chelsea FC,Andrey SantosAndrey Santos,19,Central Midfield,CM,€15.00m,Vasco da Gama,"End of loan Jun 30, 2023",In,
+11,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,AC Milan,"End of loan Jun 30, 2023",In,
+0,Chelsea FC,Kai HavertzK. Havertz,24,Attacking Midfield,AM,€55.00m,Arsenal,€70.00m,Out,€70.00m
 1,Chelsea FC,Mason MountM. Mount,24,Attacking Midfield,AM,€60.00m,Man Utd,€64.20m,Out,€64.20m
 2,Chelsea FC,Mateo KovacicM. Kovacic,29,Central Midfield,CM,€38.00m,Man City,€29.10m,Out,€29.10m
 3,Chelsea FC,Kalidou KoulibalyK. Koulibaly,32,Centre-Back,CB,€15.00m,Al-Hilal,€23.00m,Out,€23.00m
 4,Chelsea FC,Edouard MendyE. Mendy,31,Goalkeeper,GK,€12.00m,Al-Ahli,€18.50m,Out,€18.50m
 5,Chelsea FC,Ruben Loftus-CheekR. Loftus-Cheek,27,Central Midfield,CM,€25.00m,AC Milan,€16.00m,Out,€16.00m
-6,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Al-Ittihad Club,free transfer,Out,
-7,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,Without Club,-,Out,
-8,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
+6,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Ittihad Club,free transfer,Out,
+7,Chelsea FC,César AzpilicuetaC. Azpilicueta,33,Right-Back,RB,€5.00m,Atlético Madrid,free transfer,Out,
+8,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,Without Club,-,Out,
 9,Chelsea FC,Denis ZakariaD. Zakaria,26,Defensive Midfield,DM,€18.00m,Juventus,"End of loan Jun 30, 2023",Out,
+10,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
 0,Crystal Palace,Jefferson LermaJ. Lerma,28,Defensive Midfield,DM,€20.00m,Bournemouth,free transfer,In,
 1,Crystal Palace,Jake O'BrienJ. O'Brien,22,Centre-Back,CB,€700k,RWDM,"End of loan Jun 30, 2023",In,
 2,Crystal Palace,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Man Utd,"End of loan Jun 30, 2023",In,
@@ -176,12 +178,12 @@
 3,Newcastle United,Yankuba MintehY. Minteh,18,Right Winger,RW,€2.00m,Feyenoord,loan transfer,Out,
 0,Nottingham Forest,Chris WoodC. Wood,31,Centre-Forward,CF,€8.00m,Newcastle,€17.00m,In,€17.00m
 1,Nottingham Forest,Lewis O'BrienL. O'Brien,24,Central Midfield,CM,€8.00m,D.C. United,"End of loan Jul 16, 2023",In,
-2,Nottingham Forest,Ui-jo HwangU. Hwang,30,Centre-Forward,CF,€4.80m,FC Seoul,"End of loan Jun 30, 2023",In,
-3,Nottingham Forest,Brandon AguileraB. Aguilera,20,Attacking Midfield,AM,€275k,Estoril U23,"End of loan Jun 30, 2023",In,
-4,Nottingham Forest,Loïc Mbe SohL. Mbe Soh,22,Centre-Back,CB,€2.00m,Guingamp,"End of loan Jun 30, 2023",In,
-5,Nottingham Forest,Richie LaryeaR. Laryea,28,Right-Back,RB,€2.50m,Toronto,"End of loan Jun 30, 2023",In,
-6,Nottingham Forest,Ethan HorvathE. Horvath,28,Goalkeeper,GK,€1.50m,Luton,"End of loan Jun 30, 2023",In,
-7,Nottingham Forest,Mohamed DrägerM. Dräger,27,Right-Back,RB,€900k,FC Luzern,"End of loan Jun 30, 2023",In,
+2,Nottingham Forest,Mohamed DrägerM. Dräger,27,Right-Back,RB,€900k,FC Luzern,"End of loan Jun 30, 2023",In,
+3,Nottingham Forest,Ui-jo HwangU. Hwang,30,Centre-Forward,CF,€4.80m,FC Seoul,"End of loan Jun 30, 2023",In,
+4,Nottingham Forest,Brandon AguileraB. Aguilera,20,Attacking Midfield,AM,€275k,Estoril U23,"End of loan Jun 30, 2023",In,
+5,Nottingham Forest,Loïc Mbe SohL. Mbe Soh,22,Centre-Back,CB,€2.00m,Guingamp,"End of loan Jun 30, 2023",In,
+6,Nottingham Forest,Richie LaryeaR. Laryea,28,Right-Back,RB,€2.50m,Toronto,"End of loan Jun 30, 2023",In,
+7,Nottingham Forest,Ethan HorvathE. Horvath,28,Goalkeeper,GK,€1.50m,Luton,"End of loan Jun 30, 2023",In,
 0,Nottingham Forest,Lyle TaylorL. Taylor,33,Centre-Forward,CF,€300k,Without Club,-,Out,
 1,Nottingham Forest,Jesse LingardJ. Lingard,30,Attacking Midfield,AM,€8.00m,Without Club,-,Out,
 2,Nottingham Forest,André AyewA. Ayew,33,Left Winger,LW,€1.80m,Without Club,-,Out,
