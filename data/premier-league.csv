@@ -16,18 +16,19 @@
 1,Aston Villa,Ashley YoungA. Young,37,Right-Back,RB,€600k,Without Club,-,Out,
 0,AFC Bournemouth,Hamed Junior TraorèH. Traorè,23,Attacking Midfield,AM,€22.00m,Sassuolo,€25.62m,In,€25.62m
 1,AFC Bournemouth,Justin KluivertJ. Kluivert,24,Left Winger,LW,€14.00m,AS Roma,€11.20m,In,€11.20m
-2,AFC Bournemouth,James HillJ. Hill,21,Centre-Back,CB,€1.00m,Heart of Midl.,"End of loan Jun 30, 2023",In,
-3,AFC Bournemouth,Emiliano MarcondesE. Marcondes,28,Attacking Midfield,AM,€1.50m,Nordsjaelland,"End of loan Jun 30, 2023",In,
-4,AFC Bournemouth,Siriki DembéléS. Dembélé,26,Left Winger,LW,€2.00m,AJ Auxerre,"End of loan Jun 30, 2023",In,
-5,AFC Bournemouth,Will DennisW. Dennis,23,Goalkeeper,GK,€150k,Kilmarnock FC,"End of loan May 31, 2024",In,
-0,AFC Bournemouth,Jordan ZemuraJ. Zemura,23,Left-Back,LB,€6.00m,Udinese Calcio,free transfer,Out,
-1,AFC Bournemouth,Jack StaceyJ. Stacey,27,Right-Back,RB,€2.00m,Norwich,free transfer,Out,
-2,AFC Bournemouth,Jefferson LermaJ. Lerma,28,Defensive Midfield,DM,€20.00m,Crystal Palace,free transfer,Out,
+2,AFC Bournemouth,Siriki DembéléS. Dembélé,26,Left Winger,LW,€2.00m,AJ Auxerre,"End of loan Jun 30, 2023",In,
+3,AFC Bournemouth,Will DennisW. Dennis,23,Goalkeeper,GK,€150k,Kilmarnock FC,"End of loan May 31, 2024",In,
+4,AFC Bournemouth,Emiliano MarcondesE. Marcondes,28,Attacking Midfield,AM,€1.50m,Nordsjaelland,"End of loan Jun 30, 2023",In,
+5,AFC Bournemouth,James HillJ. Hill,21,Centre-Back,CB,€1.00m,Heart of Midl.,"End of loan Jun 30, 2023",In,
+0,AFC Bournemouth,Jack StaceyJ. Stacey,27,Right-Back,RB,€2.00m,Norwich,free transfer,Out,
+1,AFC Bournemouth,Jefferson LermaJ. Lerma,28,Defensive Midfield,DM,€20.00m,Crystal Palace,free transfer,Out,
+2,AFC Bournemouth,Jordan ZemuraJ. Zemura,23,Left-Back,LB,€6.00m,Udinese Calcio,free transfer,Out,
 3,AFC Bournemouth,Christian SaydeeC. Saydee,21,Centre-Forward,CF,€400k,Portsmouth,?,Out,
-4,AFC Bournemouth,Will DennisW. Dennis,22,Goalkeeper,GK,€150k,Kilmarnock FC,loan transfer,Out,
-5,AFC Bournemouth,Junior StanislasJ. Stanislas,33,Left Winger,LW,€500k,Without Club,-,Out,
-6,AFC Bournemouth,Matías ViñaM. Viña,25,Left-Back,LB,€8.00m,AS Roma,"End of loan Jun 30, 2023",Out,
+4,AFC Bournemouth,Ben PearsonB. Pearson,28,Central Midfield,CM,€2.20m,Stoke City,?,Out,
+5,AFC Bournemouth,Will DennisW. Dennis,22,Goalkeeper,GK,€150k,Kilmarnock FC,loan transfer,Out,
+6,AFC Bournemouth,Junior StanislasJ. Stanislas,33,Left Winger,LW,€500k,Without Club,-,Out,
 7,AFC Bournemouth,Hamed Junior TraorèH. Traorè,23,Attacking Midfield,AM,€22.00m,Sassuolo,"End of loan Jun 30, 2023",Out,
+8,AFC Bournemouth,Matías ViñaM. Viña,25,Left-Back,LB,€8.00m,AS Roma,"End of loan Jun 30, 2023",Out,
 0,Brentford FC,Nathan CollinsN. Collins,22,Centre-Back,CB,€22.00m,Wolves,€26.85m,In,€26.85m
 1,Brentford FC,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,SC Freiburg,€25.00m,In,€25.00m
 2,Brentford FC,Mark FlekkenM. Flekken,30,Goalkeeper,GK,€10.00m,SC Freiburg,€13.00m,In,€13.00m
@@ -70,10 +71,10 @@
 1,Burnley FC,Dara O'SheaD. O'Shea,24,Centre-Back,CB,€5.00m,West Brom,€7.80m,In,€7.80m
 2,Burnley FC,Lawrence VigourouxL. Vigouroux,29,Goalkeeper,GK,€300k,Leyton Orient,free transfer,In,
 3,Burnley FC,Michael ObafemiM. Obafemi,22,Centre-Forward,CF,€5.00m,Swansea,?,In,
-4,Burnley FC,Wout WeghorstW. Weghorst,30,Centre-Forward,CF,€12.00m,Man Utd,"End of loan Jun 30, 2023",In,
-5,Burnley FC,Enock AgyeiE. Agyei,18,Right Winger,RW,€800k,KV Mechelen,"End of loan Jun 30, 2023",In,
-0,Burnley FC,Ashley BarnesA. Barnes,33,Centre-Forward,CF,€1.00m,Norwich,free transfer,Out,
-1,Burnley FC,Will NorrisW. Norris,29,Goalkeeper,GK,€350k,Portsmouth,free transfer,Out,
+4,Burnley FC,Enock AgyeiE. Agyei,18,Right Winger,RW,€800k,KV Mechelen,"End of loan Jun 30, 2023",In,
+5,Burnley FC,Wout WeghorstW. Weghorst,30,Centre-Forward,CF,€12.00m,Man Utd,"End of loan Jun 30, 2023",In,
+0,Burnley FC,Will NorrisW. Norris,29,Goalkeeper,GK,€350k,Portsmouth,free transfer,Out,
+1,Burnley FC,Ashley BarnesA. Barnes,33,Centre-Forward,CF,€1.00m,Norwich,free transfer,Out,
 2,Burnley FC,Matthew LowtonM. Lowton,34,Right-Back,RB,€250k,Without Club,-,Out,
 3,Burnley FC,Jordan BeyerJ. Beyer,23,Centre-Back,CB,€16.00m,Bor. M'gladbach,"End of loan Jun 30, 2023",Out,
 0,Chelsea FC,Christopher NkunkuC. Nkunku,25,Second Striker,SS,€80.00m,RB Leipzig,€60.00m,In,€60.00m
@@ -81,12 +82,12 @@
 2,Chelsea FC,Diego MoreiraD. Moreira,18,Left Winger,LW,€2.00m,Benfica B,free transfer,In,
 3,Chelsea FC,Levi ColwillL. Colwill,20,Centre-Back,CB,€30.00m,Chelsea U21,-,In,
 4,Chelsea FC,Lewis HallL. Hall,18,Left-Back,LB,€10.00m,Chelsea U21,-,In,
-5,Chelsea FC,Andrey SantosAndrey Santos,19,Central Midfield,CM,€15.00m,Vasco da Gama,"End of loan Jun 30, 2023",In,
-6,Chelsea FC,Malo GustoM. Gusto,20,Right-Back,RB,€25.00m,Olympique Lyon,"End of loan Jun 30, 2023",In,
-7,Chelsea FC,Ethan AmpaduE. Ampadu,22,Centre-Back,CB,€9.00m,Spezia Calcio,"End of loan Jun 30, 2023",In,
-8,Chelsea FC,Callum Hudson-OdoiC. Hudson-Odoi,22,Left Winger,LW,€15.00m,B. Leverkusen,"End of loan Jun 30, 2023",In,
-9,Chelsea FC,Malang SarrM. Sarr,24,Centre-Back,CB,€6.00m,Monaco,"End of loan Jun 30, 2023",In,
-10,Chelsea FC,Romelu LukakuR. Lukaku,30,Centre-Forward,CF,€40.00m,Inter,"End of loan Jun 30, 2023",In,
+5,Chelsea FC,Romelu LukakuR. Lukaku,30,Centre-Forward,CF,€40.00m,Inter,"End of loan Jun 30, 2023",In,
+6,Chelsea FC,Malang SarrM. Sarr,24,Centre-Back,CB,€6.00m,Monaco,"End of loan Jun 30, 2023",In,
+7,Chelsea FC,Callum Hudson-OdoiC. Hudson-Odoi,22,Left Winger,LW,€15.00m,B. Leverkusen,"End of loan Jun 30, 2023",In,
+8,Chelsea FC,Ethan AmpaduE. Ampadu,22,Centre-Back,CB,€9.00m,Spezia Calcio,"End of loan Jun 30, 2023",In,
+9,Chelsea FC,Malo GustoM. Gusto,20,Right-Back,RB,€25.00m,Olympique Lyon,"End of loan Jun 30, 2023",In,
+10,Chelsea FC,Andrey SantosAndrey Santos,19,Central Midfield,CM,€15.00m,Vasco da Gama,"End of loan Jun 30, 2023",In,
 11,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,AC Milan,"End of loan Jun 30, 2023",In,
 0,Chelsea FC,Kai HavertzK. Havertz,24,Attacking Midfield,AM,€55.00m,Arsenal,€70.00m,Out,€70.00m
 1,Chelsea FC,Mason MountM. Mount,24,Attacking Midfield,AM,€60.00m,Man Utd,€64.20m,Out,€64.20m
@@ -94,11 +95,11 @@
 3,Chelsea FC,Kalidou KoulibalyK. Koulibaly,32,Centre-Back,CB,€15.00m,Al-Hilal,€23.00m,Out,€23.00m
 4,Chelsea FC,Edouard MendyE. Mendy,31,Goalkeeper,GK,€12.00m,Al-Ahli,€18.50m,Out,€18.50m
 5,Chelsea FC,Ruben Loftus-CheekR. Loftus-Cheek,27,Central Midfield,CM,€25.00m,AC Milan,€16.00m,Out,€16.00m
-6,Chelsea FC,César AzpilicuetaC. Azpilicueta,33,Right-Back,RB,€5.00m,Atlético Madrid,free transfer,Out,
-7,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Ittihad Club,free transfer,Out,
+6,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Ittihad Club,free transfer,Out,
+7,Chelsea FC,César AzpilicuetaC. Azpilicueta,33,Right-Back,RB,€5.00m,Atlético Madrid,free transfer,Out,
 8,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,Without Club,-,Out,
-9,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
-10,Chelsea FC,Denis ZakariaD. Zakaria,26,Defensive Midfield,DM,€18.00m,Juventus,"End of loan Jun 30, 2023",Out,
+9,Chelsea FC,Denis ZakariaD. Zakaria,26,Defensive Midfield,DM,€18.00m,Juventus,"End of loan Jun 30, 2023",Out,
+10,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
 0,Crystal Palace,Jefferson LermaJ. Lerma,28,Defensive Midfield,DM,€20.00m,Bournemouth,free transfer,In,
 1,Crystal Palace,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Man Utd,"End of loan Jun 30, 2023",In,
 0,Crystal Palace,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Rangers,free transfer,Out,
@@ -129,8 +130,8 @@
 0,Fulham FC,Paulo GazzanigaP. Gazzaniga,31,Goalkeeper,GK,€3.00m,Girona,free transfer,Out,
 1,Fulham FC,Shane DuffyS. Duffy,31,Centre-Back,CB,€2.00m,Norwich,free transfer,Out,
 2,Fulham FC,Joe BryanJoe Bryan,29,Left-Back,LB,€2.20m,Millwall,free transfer,Out,
-3,Fulham FC,Steven SessegnonS. Sessegnon,23,Right-Back,RB,€800k,Without Club,-,Out,
-4,Fulham FC,Neeskens KebanoN. Kebano,31,Left Winger,LW,€2.00m,Without Club,-,Out,
+3,Fulham FC,Neeskens KebanoN. Kebano,31,Left Winger,LW,€2.00m,Al-Jazira,free transfer,Out,
+4,Fulham FC,Steven SessegnonS. Sessegnon,23,Right-Back,RB,€800k,Without Club,-,Out,
 5,Fulham FC,Manor SolomonM. Solomon,23,Left Winger,LW,€18.00m,Shakhtar D.,"End of loan Jun 30, 2023",Out,
 6,Fulham FC,Layvin KurzawaL. Kurzawa,30,Left-Back,LB,€3.00m,Paris SG,"End of loan Jun 30, 2023",Out,
 7,Fulham FC,Cédric SoaresC. Soares,31,Right-Back,RB,€3.00m,Arsenal,"End of loan Jun 30, 2023",Out,
@@ -226,22 +227,23 @@
 1,West Ham United,Nikola VlasicN. Vlasic,25,Attacking Midfield,AM,€17.00m,Torino,"End of loan Jun 30, 2023",In,
 0,West Ham United,Arthur MasuakuA. Masuaku,29,Left-Back,LB,€6.00m,Besiktas,€2.00m,Out,€2.00m
 1,West Ham United,Manuel LanziniM. Lanzini,30,Attacking Midfield,AM,€6.00m,Without Club,-,Out,
-0,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,€11.00m,In,€11.00m
-1,Wolverhampton Wanderers,Tom KingTom King,28,Goalkeeper,GK,€175k,Northampton,free transfer,In,
-2,Wolverhampton Wanderers,Dion SandersonD. Sanderson,23,Centre-Back,CB,€4.00m,Wolves U21,-,In,
+0,Wolverhampton Wanderers,Matheus CunhaM. Cunha,24,Centre-Forward,CF,€25.00m,Atlético Madrid,€50.00m,In,€50.00m
+1,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,€11.00m,In,€11.00m
+2,Wolverhampton Wanderers,Tom KingTom King,28,Goalkeeper,GK,€175k,Northampton,free transfer,In,
 3,Wolverhampton Wanderers,Ryan GilesR. Giles,23,Left-Back,LB,€9.00m,Wolves U21,-,In,
-4,Wolverhampton Wanderers,Bendegúz BollaB. Bolla,23,Right-Back,RB,€2.70m,Grasshoppers,"End of loan Jun 30, 2023",In,
+4,Wolverhampton Wanderers,Dion SandersonD. Sanderson,23,Centre-Back,CB,€4.00m,Wolves U21,-,In,
 5,Wolverhampton Wanderers,Fábio SilvaF. Silva,20,Centre-Forward,CF,€13.00m,PSV Eindhoven,"End of loan Jun 30, 2023",In,
 6,Wolverhampton Wanderers,Gonçalo GuedesG. Guedes,26,Left Winger,LW,€23.00m,Benfica,"End of loan Jun 30, 2023",In,
 7,Wolverhampton Wanderers,Bruno JordãoB. Jordão,24,Central Midfield,CM,€1.30m,Santa Clara,"End of loan Jun 30, 2023",In,
 8,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Everton,"End of loan Jun 30, 2023",In,
 9,Wolverhampton Wanderers,Hayao KawabeH. Kawabe,27,Central Midfield,CM,€2.80m,Grasshoppers,"End of loan Jun 30, 2023",In,
+10,Wolverhampton Wanderers,Bendegúz BollaB. Bolla,23,Right-Back,RB,€2.70m,Grasshoppers,"End of loan Jun 30, 2023",In,
 0,Wolverhampton Wanderers,Rúben NevesR. Neves,26,Defensive Midfield,DM,€40.00m,Al-Hilal,€55.00m,Out,€55.00m
 1,Wolverhampton Wanderers,Nathan CollinsN. Collins,22,Centre-Back,CB,€22.00m,Brentford,€26.85m,Out,€26.85m
 2,Wolverhampton Wanderers,Conor CoadyC. Coady,30,Centre-Back,CB,€12.00m,Leicester,€8.70m,Out,€8.70m
 3,Wolverhampton Wanderers,Hayao KawabeH. Kawabe,27,Central Midfield,CM,€2.80m,Standard Liège,€1.50m,Out,€1.50m
-4,Wolverhampton Wanderers,João MoutinhoJ. Moutinho,36,Central Midfield,CM,€1.50m,Without Club,-,Out,
-5,Wolverhampton Wanderers,Adama TraoréA. Traoré,27,Right Winger,RW,€10.00m,Without Club,-,Out,
-6,Wolverhampton Wanderers,Diego CostaD. Costa,34,Centre-Forward,CF,€2.00m,Without Club,-,Out,
+4,Wolverhampton Wanderers,Adama TraoréA. Traoré,27,Right Winger,RW,€10.00m,Without Club,-,Out,
+5,Wolverhampton Wanderers,Diego CostaD. Costa,34,Centre-Forward,CF,€2.00m,Without Club,-,Out,
+6,Wolverhampton Wanderers,João MoutinhoJ. Moutinho,36,Central Midfield,CM,€1.50m,Without Club,-,Out,
 7,Wolverhampton Wanderers,Matheus CunhaM. Cunha,24,Centre-Forward,CF,€25.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
 8,Wolverhampton Wanderers,Boubacar TraoréB. Traoré,21,Defensive Midfield,DM,€5.00m,FC Metz,"End of loan Jun 30, 2023",Out,
