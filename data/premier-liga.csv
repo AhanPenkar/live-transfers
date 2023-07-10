@@ -116,19 +116,19 @@
 0,Dynamo Moscow,Nikola MoroN. Moro,25,Defensive Midfield,DM,€6.50m,Bologna,€2.50m,Out,€2.50m
 1,Dynamo Moscow,Vladimir MoskvichevV. Moskvichev,23,Defensive Midfield,DM,€600k,Without Club,-,Out,
 2,Dynamo Moscow,Mathias NormannM. Normann,27,Defensive Midfield,DM,€6.00m,Rostov,"End of loan Aug 31, 2023",Out,
-0,FK Orenburg,Emircan GürlükE. Gürlük,19,Left Winger,LW,€1.00m,Altinordu,€1.20m,In,€1.20m
-1,FK Orenburg,Brian MansillaB. Mansilla,26,Left Winger,LW,€1.20m,Racing Club,€1.20m,In,€1.20m
+0,FK Orenburg,Brian MansillaB. Mansilla,26,Left Winger,LW,€1.20m,Racing Club,€1.20m,In,€1.20m
+1,FK Orenburg,Emircan GürlükE. Gürlük,19,Left Winger,LW,€1.00m,Altinordu,€1.20m,In,€1.20m
 2,FK Orenburg,Tomás MuroT. Muro,21,Central Midfield,CM,€1.00m,Gimnasia,€1.00m,In,€1.00m
 3,FK Orenburg,Stepan OganesyanS. Oganesyan,21,Right Winger,RW,€500k,Spartak Moscow,€500k,In,€500k
 4,FK Orenburg,Maksim SidorovM. Sidorov,25,Left-Back,LB,€300k,Kuban,free transfer,In,
 5,FK Orenburg,Leo GoglichidzeL. Goglichidze,26,Left-Back,LB,€600k,Ural,loan transfer,In,
 6,FK Orenburg,Evgeniy BolotovE. Bolotov,22,Defensive Midfield,DM,€250k,Tyumen,"End of loan Jun 30, 2023",In,
 0,FK Orenburg,Aleksandr EktovA. Ektov,27,Right-Back,RB,€1.00m,Krasnodar,€800k,Out,€800k
-1,FK Orenburg,Evgeniy BolotovE. Bolotov,22,Defensive Midfield,DM,€250k,Tyumen,free transfer,Out,
+1,FK Orenburg,Mateo StamatovM. Stamatov,24,Left-Back,LB,€700k,Pari NN,free transfer,Out,
 2,FK Orenburg,Timur AyupovT. Ayupov,29,Defensive Midfield,DM,€1.00m,Ural,free transfer,Out,
-3,FK Orenburg,Mateo StamatovM. Stamatov,24,Left-Back,LB,€700k,Pari NN,free transfer,Out,
-4,FK Orenburg,Brian MansillaB. Mansilla,26,Left Winger,LW,€1.20m,Racing Club,"End of loan Jun 30, 2023",Out,
-5,FK Orenburg,Stepan OganesyanS. Oganesyan,21,Right Winger,RW,€500k,Spartak Moscow,"End of loan Jun 30, 2023",Out,
+3,FK Orenburg,Evgeniy BolotovE. Bolotov,22,Defensive Midfield,DM,€250k,Tyumen,free transfer,Out,
+4,FK Orenburg,Stepan OganesyanS. Oganesyan,21,Right Winger,RW,€500k,Spartak Moscow,"End of loan Jun 30, 2023",Out,
+5,FK Orenburg,Brian MansillaB. Mansilla,26,Left Winger,LW,€1.20m,Racing Club,"End of loan Jun 30, 2023",Out,
 0,Lokomotiv Moscow,Vladislav SarveliV. Sarveli,25,Centre-Forward,CF,€1.50m,Sochi,€1.00m,In,€1.00m
 1,Lokomotiv Moscow,Ilya SamoshnikovI. Samoshnikov,25,Left-Back,LB,€2.50m,Rubin Kazan,free transfer,In,
 2,Lokomotiv Moscow,Vadim RakovV. Rakov,18,Centre-Forward,CF,€500k,Loko Moscow II,-,In,
@@ -290,8 +290,8 @@
 4,Baltika Kaliningrad,Aleksandr ZhirovA. Zhirov,32,Centre-Back,CB,€600k,SV Sandhausen,free transfer,In,
 5,Baltika Kaliningrad,Roberto FernándezR. Fernández,23,Left-Back,LB,€1.00m,Bolívar,loan transfer,In,
 0,Baltika Kaliningrad,Danil KlenkinD. Klenkin,32,Attacking Midfield,AM,€250k,Volgar,free transfer,Out,
-1,Baltika Kaliningrad,Maksim TishkinM. Tishkin,33,Right-Back,RB,€100k,Without Club,-,Out,
-2,Baltika Kaliningrad,Mladen KascelanM. Kascelan,40,Defensive Midfield,DM,-,Retired,-,Out,
-3,Baltika Kaliningrad,Kirill FolmerK. Folmer,23,Central Midfield,CM,€350k,Rostov,"End of loan Jun 30, 2023",Out,
+1,Baltika Kaliningrad,Mladen KascelanM. Kascelan,40,Defensive Midfield,DM,-,Retired,-,Out,
+2,Baltika Kaliningrad,Maksim TishkinM. Tishkin,33,Right-Back,RB,€100k,Without Club,-,Out,
+3,Baltika Kaliningrad,Tigran AvanesyanT. Avanesyan,21,Defensive Midfield,DM,€200k,CSKA Moscow II,"End of loan Jun 30, 2023",Out,
 4,Baltika Kaliningrad,Sergey PryakhinS. Pryakhin,20,Right Winger,RW,€350k,CSKA Moscow II,"End of loan Jun 30, 2023",Out,
-5,Baltika Kaliningrad,Tigran AvanesyanT. Avanesyan,21,Defensive Midfield,DM,€200k,CSKA Moscow II,"End of loan Jun 30, 2023",Out,
+5,Baltika Kaliningrad,Kirill FolmerK. Folmer,23,Central Midfield,CM,€350k,Rostov,"End of loan Jun 30, 2023",Out,
