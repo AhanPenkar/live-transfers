@@ -1,11 +1,11 @@
 ,club_name,player_name,Age,Position,Pos,Market value,club_involved_name,Fee,transfer_movement,fee_cleaned
 0,Arsenal FC,Kai HavertzK. Havertz,24,Attacking Midfield,AM,€55.00m,Chelsea,€70.00m,In,€70.00m
-1,Arsenal FC,Nuno TavaresN. Tavares,23,Left-Back,LB,€18.00m,Marseille,"End of loan Jun 30, 2023",In,
-2,Arsenal FC,Folarin BalogunF. Balogun,21,Centre-Forward,CF,€30.00m,Stade Reims,"End of loan Jun 30, 2023",In,
-3,Arsenal FC,Pablo MaríP. Marí,29,Centre-Back,CB,€5.00m,Monza,"End of loan Jun 30, 2023",In,
-4,Arsenal FC,Rúnar Alex RúnarssonR. Rúnarsson,28,Goalkeeper,GK,€1.50m,Alanyaspor,"End of loan Jun 30, 2023",In,
-5,Arsenal FC,Nicolas PépéN. Pépé,28,Right Winger,RW,€18.00m,OGC Nice,"End of loan Jun 30, 2023",In,
-6,Arsenal FC,Cédric SoaresC. Soares,31,Right-Back,RB,€3.00m,Fulham,"End of loan Jun 30, 2023",In,
+1,Arsenal FC,Cédric SoaresC. Soares,31,Right-Back,RB,€3.00m,Fulham,"End of loan Jun 30, 2023",In,
+2,Arsenal FC,Nicolas PépéN. Pépé,28,Right Winger,RW,€18.00m,OGC Nice,"End of loan Jun 30, 2023",In,
+3,Arsenal FC,Rúnar Alex RúnarssonR. Rúnarsson,28,Goalkeeper,GK,€1.50m,Alanyaspor,"End of loan Jun 30, 2023",In,
+4,Arsenal FC,Pablo MaríP. Marí,29,Centre-Back,CB,€5.00m,Monza,"End of loan Jun 30, 2023",In,
+5,Arsenal FC,Folarin BalogunF. Balogun,21,Centre-Forward,CF,€30.00m,Stade Reims,"End of loan Jun 30, 2023",In,
+6,Arsenal FC,Nuno TavaresN. Tavares,23,Left-Back,LB,€18.00m,Marseille,"End of loan Jun 30, 2023",In,
 0,Arsenal FC,Granit XhakaG. Xhaka,30,Central Midfield,CM,€20.00m,B. Leverkusen,€25.00m,Out,€25.00m
 1,Arsenal FC,Pablo MaríP. Marí,29,Centre-Back,CB,€5.00m,Monza,€4.90m,Out,€4.90m
 2,Arsenal FC,Ainsley Maitland-NilesA. Maitland-Niles,25,Right Midfield,RM,€8.00m,Without Club,-,Out,
@@ -80,8 +80,8 @@
 0,Chelsea FC,Christopher NkunkuC. Nkunku,25,Second Striker,SS,€80.00m,RB Leipzig,€60.00m,In,€60.00m
 1,Chelsea FC,Nicolas JacksonN. Jackson,22,Centre-Forward,CF,€30.00m,Villarreal,€37.00m,In,€37.00m
 2,Chelsea FC,Diego MoreiraD. Moreira,18,Left Winger,LW,€2.00m,Benfica B,free transfer,In,
-3,Chelsea FC,Levi ColwillL. Colwill,20,Centre-Back,CB,€30.00m,Chelsea U21,-,In,
-4,Chelsea FC,Lewis HallL. Hall,18,Left-Back,LB,€10.00m,Chelsea U21,-,In,
+3,Chelsea FC,Lewis HallL. Hall,18,Left-Back,LB,€10.00m,Chelsea U21,-,In,
+4,Chelsea FC,Levi ColwillL. Colwill,20,Centre-Back,CB,€30.00m,Chelsea U21,-,In,
 5,Chelsea FC,Andrey SantosAndrey Santos,19,Central Midfield,CM,€15.00m,Vasco da Gama,"End of loan Jun 30, 2023",In,
 6,Chelsea FC,Malo GustoM. Gusto,20,Right-Back,RB,€25.00m,Olympique Lyon,"End of loan Jun 30, 2023",In,
 7,Chelsea FC,Ethan AmpaduE. Ampadu,22,Centre-Back,CB,€9.00m,Spezia Calcio,"End of loan Jun 30, 2023",In,
@@ -95,11 +95,13 @@
 3,Chelsea FC,Kalidou KoulibalyK. Koulibaly,32,Centre-Back,CB,€15.00m,Al-Hilal,€23.00m,Out,€23.00m
 4,Chelsea FC,Edouard MendyE. Mendy,31,Goalkeeper,GK,€12.00m,Al-Ahli,€18.50m,Out,€18.50m
 5,Chelsea FC,Ruben Loftus-CheekR. Loftus-Cheek,27,Central Midfield,CM,€25.00m,AC Milan,€16.00m,Out,€16.00m
-6,Chelsea FC,César AzpilicuetaC. Azpilicueta,33,Right-Back,RB,€5.00m,Atlético Madrid,free transfer,Out,
-7,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Ittihad Club,free transfer,Out,
-8,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,Without Club,-,Out,
-9,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
-10,Chelsea FC,Denis ZakariaD. Zakaria,26,Defensive Midfield,DM,€18.00m,Juventus,"End of loan Jun 30, 2023",Out,
+6,Chelsea FC,Abdul-Rahman BabaA. Baba,29,Left-Back,LB,€1.20m,PAOK Salonika,free transfer,Out,
+7,Chelsea FC,César AzpilicuetaC. Azpilicueta,33,Right-Back,RB,€5.00m,Atlético Madrid,free transfer,Out,
+8,Chelsea FC,N'Golo KantéN. Kanté,32,Defensive Midfield,DM,€15.00m,Ittihad Club,free transfer,Out,
+9,Chelsea FC,David Datro FofanaD. Fofana,20,Centre-Forward,CF,€10.00m,Union Berlin,loan transfer,Out,
+10,Chelsea FC,Tiemoué BakayokoT. Bakayoko,28,Defensive Midfield,DM,€2.50m,Without Club,-,Out,
+11,Chelsea FC,João FélixJoão Félix,23,Second Striker,SS,€50.00m,Atlético Madrid,"End of loan Jun 30, 2023",Out,
+12,Chelsea FC,Denis ZakariaD. Zakaria,26,Defensive Midfield,DM,€18.00m,Juventus,"End of loan Jun 30, 2023",Out,
 0,Crystal Palace,Jefferson LermaJ. Lerma,28,Defensive Midfield,DM,€20.00m,Bournemouth,free transfer,In,
 1,Crystal Palace,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Man Utd,"End of loan Jun 30, 2023",In,
 0,Crystal Palace,Jack ButlandJ. Butland,30,Goalkeeper,GK,€1.50m,Rangers,free transfer,Out,
@@ -212,14 +214,15 @@
 1,Tottenham Hotspur,Pedro PorroP. Porro,23,Right-Back,RB,€40.00m,Sporting CP,€40.00m,In,€40.00m
 2,Tottenham Hotspur,Dejan KulusevskiD. Kulusevski,23,Right Winger,RW,€50.00m,Juventus,€30.00m,In,€30.00m
 3,Tottenham Hotspur,Guglielmo VicarioG. Vicario,26,Goalkeeper,GK,€16.00m,FC Empoli,€20.00m,In,€20.00m
-4,Tottenham Hotspur,Djed SpenceD. Spence,22,Right-Back,RB,€10.00m,Rennes,"End of loan Jun 30, 2023",In,
-5,Tottenham Hotspur,Bryan GilBryan Gil,22,Left Winger,LW,€15.00m,Sevilla FC,"End of loan Jun 30, 2023",In,
-6,Tottenham Hotspur,Sergio ReguilónS. Reguilón,26,Left-Back,LB,€10.00m,Atlético Madrid,"End of loan Jun 30, 2023",In,
-7,Tottenham Hotspur,Harry WinksH. Winks,27,Defensive Midfield,DM,€10.00m,Sampdoria,"End of loan Jun 30, 2023",In,
-8,Tottenham Hotspur,Tanguy NdombéléT. Ndombélé,26,Central Midfield,CM,€22.00m,SSC Napoli,"End of loan Jun 30, 2023",In,
-9,Tottenham Hotspur,Destiny UdogieD. Udogie,20,Left-Back,LB,€25.00m,Udinese Calcio,"End of loan Jun 30, 2023",In,
-10,Tottenham Hotspur,Giovani Lo CelsoG. Lo Celso,27,Central Midfield,CM,€14.00m,Villarreal,"End of loan Jun 30, 2023",In,
-11,Tottenham Hotspur,Joe RodonJoe Rodon,25,Centre-Back,CB,€7.00m,Rennes,"End of loan Jun 30, 2023",In,
+4,Tottenham Hotspur,Manor SolomonM. Solomon,23,Left Winger,LW,€18.00m,Shakhtar D.,free transfer,In,
+5,Tottenham Hotspur,Djed SpenceD. Spence,22,Right-Back,RB,€10.00m,Rennes,"End of loan Jun 30, 2023",In,
+6,Tottenham Hotspur,Bryan GilBryan Gil,22,Left Winger,LW,€15.00m,Sevilla FC,"End of loan Jun 30, 2023",In,
+7,Tottenham Hotspur,Sergio ReguilónS. Reguilón,26,Left-Back,LB,€10.00m,Atlético Madrid,"End of loan Jun 30, 2023",In,
+8,Tottenham Hotspur,Harry WinksH. Winks,27,Defensive Midfield,DM,€10.00m,Sampdoria,"End of loan Jun 30, 2023",In,
+9,Tottenham Hotspur,Tanguy NdombéléT. Ndombélé,26,Central Midfield,CM,€22.00m,SSC Napoli,"End of loan Jun 30, 2023",In,
+10,Tottenham Hotspur,Destiny UdogieD. Udogie,20,Left-Back,LB,€25.00m,Udinese Calcio,"End of loan Jun 30, 2023",In,
+11,Tottenham Hotspur,Giovani Lo CelsoG. Lo Celso,27,Central Midfield,CM,€14.00m,Villarreal,"End of loan Jun 30, 2023",In,
+12,Tottenham Hotspur,Joe RodonJoe Rodon,25,Centre-Back,CB,€7.00m,Rennes,"End of loan Jun 30, 2023",In,
 0,Tottenham Hotspur,Harry WinksH. Winks,27,Defensive Midfield,DM,€10.00m,Leicester,€11.60m,Out,€11.60m
 1,Tottenham Hotspur,Lucas MouraLucas Moura,30,Right Winger,RW,€6.00m,Without Club,-,Out,
 2,Tottenham Hotspur,Arnaut DanjumaA. Danjuma,26,Left Winger,LW,€25.00m,Villarreal,"End of loan Jun 30, 2023",Out,
