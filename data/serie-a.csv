@@ -60,16 +60,17 @@
 8,AC Milan,Sergiño DestS. Dest,22,Right-Back,RB,€10.00m,Barcelona,"End of loan Jun 30, 2023",Out,
 0,Atalanta BC,Mitchel BakkerM. Bakker,23,Left-Back,LB,€9.00m,B. Leverkusen,€10.00m,In,€10.00m
 1,Atalanta BC,Vanja VlahovicV. Vlahovic,19,Centre-Forward,CF,€400k,Partizan,€500k,In,€500k
-2,Atalanta BC,Sead KolasinacS. Kolasinac,30,Left-Back,LB,€8.00m,Marseille,free transfer,In,
-3,Atalanta BC,Michel AdopoM. Adopo,22,Central Midfield,CM,€500k,Torino,free transfer,In,
+2,Atalanta BC,Michel AdopoM. Adopo,22,Central Midfield,CM,€500k,Torino,free transfer,In,
+3,Atalanta BC,Sead KolasinacS. Kolasinac,30,Left-Back,LB,€8.00m,Marseille,free transfer,In,
 4,Atalanta BC,Lorenzo BernasconiL. Bernasconi,19,Left-Back,LB,€75k,Atalanta U19,-,In,
 0,Atalanta BC,Matteo PessinaM. Pessina,26,Central Midfield,CM,€15.00m,Monza,€12.00m,Out,€12.00m
 1,Atalanta BC,Ruslan MalinovskyiR. Malinovskyi,30,Attacking Midfield,AM,€15.00m,Marseille,€10.00m,Out,€10.00m
 2,Atalanta BC,Sam LammersS. Lammers,26,Centre-Forward,CF,€2.00m,Rangers,€3.50m,Out,€3.50m
 3,Atalanta BC,Marco SportielloM. Sportiello,31,Goalkeeper,GK,€1.50m,AC Milan,free transfer,Out,
-4,Atalanta BC,Giorgio CittadiniG. Cittadini,21,Centre-Back,CB,€3.00m,Monza,loan transfer,Out,
-5,Atalanta BC,Khadim NdiayeK. Ndiaye,23,Goalkeeper,GK,-,Without Club,-,Out,
+4,Atalanta BC,David HeidenreichD. Heidenreich,23,Centre-Back,CB,€250k,Hradec Kralove,?,Out,
+5,Atalanta BC,Giorgio CittadiniG. Cittadini,21,Centre-Back,CB,€3.00m,Monza,loan transfer,Out,
 6,Atalanta BC,Simone MuratoreS. Muratore,25,Central Midfield,CM,€100k,Without Club,-,Out,
+7,Atalanta BC,Khadim NdiayeK. Ndiaye,23,Goalkeeper,GK,-,Without Club,-,Out,
 0,AS Roma,Houssem AouarH. Aouar,25,Central Midfield,CM,€13.00m,Olympique Lyon,free transfer,In,
 1,AS Roma,Evan NdickaE. Ndicka,23,Centre-Back,CB,€28.00m,E. Frankfurt,free transfer,In,
 0,AS Roma,Justin KluivertJ. Kluivert,24,Left Winger,LW,€14.00m,Bournemouth,€11.20m,Out,€11.20m
@@ -82,24 +83,25 @@
 7,AS Roma,Ante CoricA. Coric,26,Attacking Midfield,AM,€300k,Without Club,-,Out,
 8,AS Roma,Georginio WijnaldumG. Wijnaldum,32,Central Midfield,CM,€8.00m,Paris SG,"End of loan Jun 30, 2023",Out,
 9,AS Roma,Mady CamaraM. Camara,26,Central Midfield,CM,€10.00m,Olympiacos,"End of loan Jun 30, 2023",Out,
-0,Juventus FC,Moise KeanM. Kean,23,Centre-Forward,CF,€18.00m,Everton,€30.00m,In,€30.00m
-1,Juventus FC,Manuel LocatelliM. Locatelli,25,Defensive Midfield,DM,€30.00m,Sassuolo,€30.00m,In,€30.00m
+0,Juventus FC,Manuel LocatelliM. Locatelli,25,Defensive Midfield,DM,€30.00m,Sassuolo,€30.00m,In,€30.00m
+1,Juventus FC,Moise KeanM. Kean,23,Centre-Forward,CF,€18.00m,Everton,€30.00m,In,€30.00m
 2,Juventus FC,Timothy WeahT. Weah,23,Right Winger,RW,€14.00m,LOSC Lille,€11.30m,In,€11.30m
 3,Juventus FC,Arkadiusz MilikA. Milik,29,Centre-Forward,CF,€8.00m,Marseille,€6.30m,In,€6.30m
 0,Juventus FC,Dejan KulusevskiD. Kulusevski,23,Right Winger,RW,€50.00m,Tottenham,€30.00m,Out,€30.00m
 1,Juventus FC,Radu DragusinR. Dragusin,21,Centre-Back,CB,€8.00m,Genoa,€5.50m,Out,€5.50m
 2,Juventus FC,Ángel Di MaríaÁ. Di María,35,Right Winger,RW,€8.00m,Benfica,free transfer,Out,
 3,Juventus FC,Juan CuadradoJ. Cuadrado,35,Right Midfield,RM,€4.00m,Without Club,-,Out,
-4,Juventus FC,Manuel LocatelliM. Locatelli,25,Defensive Midfield,DM,€30.00m,Sassuolo,"End of loan Jun 30, 2023",Out,
-5,Juventus FC,Moise KeanM. Kean,23,Centre-Forward,CF,€18.00m,Everton,"End of loan Jun 30, 2023",Out,
-6,Juventus FC,Arkadiusz MilikA. Milik,29,Centre-Forward,CF,€8.00m,Marseille,"End of loan Jun 30, 2023",Out,
-7,Juventus FC,Leandro ParedesL. Paredes,29,Defensive Midfield,DM,€12.00m,Paris SG,"End of loan Jun 30, 2023",Out,
-0,ACF Fiorentina,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,No new arrivals,,In,
+4,Juventus FC,Leandro ParedesL. Paredes,29,Defensive Midfield,DM,€12.00m,Paris SG,"End of loan Jun 30, 2023",Out,
+5,Juventus FC,Arkadiusz MilikA. Milik,29,Centre-Forward,CF,€8.00m,Marseille,"End of loan Jun 30, 2023",Out,
+6,Juventus FC,Moise KeanM. Kean,23,Centre-Forward,CF,€18.00m,Everton,"End of loan Jun 30, 2023",Out,
+7,Juventus FC,Manuel LocatelliM. Locatelli,25,Defensive Midfield,DM,€30.00m,Sassuolo,"End of loan Jun 30, 2023",Out,
+0,ACF Fiorentina,Dimo KrastevD. Krastev,20,Centre-Back,CB,€200k,Fiorentina U19,-,In,
 0,ACF Fiorentina,Youssef MalehY. Maleh,24,Central Midfield,CM,€4.50m,Lecce,€5.50m,Out,€5.50m
 1,ACF Fiorentina,Szymon ZurkowskiS. Zurkowski,25,Central Midfield,CM,€3.50m,Spezia Calcio,€3.20m,Out,€3.20m
 2,ACF Fiorentina,Lorenzo VenutiL. Venuti,28,Right-Back,RB,€2.00m,Without Club,-,Out,
 3,ACF Fiorentina,Riccardo SaponaraR. Saponara,31,Attacking Midfield,AM,€2.00m,Without Club,-,Out,
 4,ACF Fiorentina,Salvatore SiriguS. Sirigu,36,Goalkeeper,GK,€500k,Without Club,-,Out,
+5,ACF Fiorentina,Dimo KrastevD. Krastev,20,Centre-Back,CB,€200k,Catanzaro,loan transfer,Out,
 0,Bologna FC 1909,Sam BeukemaS. Beukema,24,Centre-Back,CB,€4.50m,AZ Alkmaar,€7.00m,In,€7.00m
 1,Bologna FC 1909,Stefan PoschS. Posch,26,Right-Back,RB,€14.00m,TSG Hoffenheim,€5.00m,In,€5.00m
 2,Bologna FC 1909,Nikola MoroN. Moro,25,Defensive Midfield,DM,€6.50m,Dynamo Moscow,€2.50m,In,€2.50m
@@ -166,11 +168,11 @@
 4,Udinese Calcio,Domingos QuinaD. Quina,23,Central Midfield,CM,€1.80m,Watford,?,In,
 0,Udinese Calcio,Filip BenkovicF. Benkovic,25,Centre-Back,CB,€2.20m,Trabzonspor,Loan fee: €500k,Out, €500k
 1,Udinese Calcio,Tolgay ArslanT. Arslan,32,Central Midfield,CM,€1.40m,Melbourne City,free transfer,Out,
-2,Udinese Calcio,Cristo GonzálezC. González,25,Centre-Forward,CF,€1.50m,Arouca,?,Out,
-3,Udinese Calcio,Mattia DamianiM. Damiani,20,Defensive Midfield,DM,€50k,Arezzo,-,Out,
-4,Udinese Calcio,Marvin ZeegelaarM. Zeegelaar,32,Left-Back,LB,€400k,Without Club,-,Out,
+2,Udinese Calcio,Mattia DamianiM. Damiani,20,Defensive Midfield,DM,€50k,Arezzo,free transfer,Out,
+3,Udinese Calcio,Cristo GonzálezC. González,25,Centre-Forward,CF,€1.50m,Arouca,?,Out,
+4,Udinese Calcio,Roberto PereyraR. Pereyra,32,Central Midfield,CM,€6.00m,Without Club,-,Out,
 5,Udinese Calcio,Ilija NestorovskiI. Nestorovski,33,Centre-Forward,CF,€400k,Without Club,-,Out,
-6,Udinese Calcio,Roberto PereyraR. Pereyra,32,Central Midfield,CM,€6.00m,Without Club,-,Out,
+6,Udinese Calcio,Marvin ZeegelaarM. Zeegelaar,32,Left-Back,LB,€400k,Without Club,-,Out,
 7,Udinese Calcio,Destiny UdogieD. Udogie,20,Left-Back,LB,€25.00m,Tottenham,"End of loan Jun 30, 2023",Out,
 0,US Sassuolo,Andrea PinamontiA. Pinamonti,24,Centre-Forward,CF,€15.00m,Inter,€20.00m,In,€20.00m
 1,US Sassuolo,Cristian VolpatoC. Volpato,19,Attacking Midfield,AM,€3.00m,AS Roma,€7.50m,In,€7.50m
@@ -183,11 +185,13 @@
 3,US Sassuolo,Davide FrattesiD. Frattesi,23,Central Midfield,CM,€25.00m,Inter,Loan fee: €6.00m,Out, €6.00m
 4,US Sassuolo,Kaan AyhanK. Ayhan,28,Centre-Back,CB,€3.70m,Galatasaray,€2.80m,Out,€2.80m
 5,US Sassuolo,Brian OddeiB. Oddei,20,Right Winger,RW,€600k,NK Rudes,?,Out,
-6,US Sassuolo,Giacomo SatalinoG. Satalino,24,Goalkeeper,GK,€150k,Reggiana,loan transfer,Out,
-7,US Sassuolo,Filippo RomagnaF. Romagna,26,Centre-Back,CB,€400k,Reggiana,loan transfer,Out,
-8,US Sassuolo,Nadir ZorteaN. Zortea,24,Right-Back,RB,€2.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
-9,US Sassuolo,Nedim BajramiN. Bajrami,24,Attacking Midfield,AM,€7.50m,FC Empoli,"End of loan Jun 30, 2023",Out,
+6,US Sassuolo,Alessandro RussoA. Russo,22,Goalkeeper,GK,€350k,Trento,loan transfer,Out,
+7,US Sassuolo,Luigi SameleL. Samele,21,Centre-Forward,CF,€150k,Taranto,loan transfer,Out,
+8,US Sassuolo,Filippo RomagnaF. Romagna,26,Centre-Back,CB,€400k,Reggiana,loan transfer,Out,
+9,US Sassuolo,Giacomo SatalinoG. Satalino,24,Goalkeeper,GK,€150k,Reggiana,loan transfer,Out,
 10,US Sassuolo,Andrea PinamontiA. Pinamonti,24,Centre-Forward,CF,€15.00m,Inter,"End of loan Jun 30, 2023",Out,
+11,US Sassuolo,Nedim BajramiN. Bajrami,24,Attacking Midfield,AM,€7.50m,FC Empoli,"End of loan Jun 30, 2023",Out,
+12,US Sassuolo,Nadir ZorteaN. Zortea,24,Right-Back,RB,€2.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
 0,FC Empoli,Sebastiano LupertoS. Luperto,26,Centre-Back,CB,€3.00m,SSC Napoli,€2.50m,In,€2.50m
 1,FC Empoli,Sebastian WalukiewiczS. Walukiewicz,23,Centre-Back,CB,€3.00m,Cagliari Calcio,€1.00m,In,€1.00m
 2,FC Empoli,Alberto GrassiA. Grassi,28,Defensive Midfield,DM,€2.00m,Parma,free transfer,In,
@@ -198,19 +202,20 @@
 2,FC Empoli,Nedim BajramiN. Bajrami,24,Attacking Midfield,AM,€7.50m,Sassuolo,€6.00m,Out,€6.00m
 3,FC Empoli,Andrea La MantiaA. La Mantia,32,Centre-Forward,CF,€800k,SPAL,€1.00m,Out,€1.00m
 4,FC Empoli,Leo StulacL. Stulac,28,Defensive Midfield,DM,€1.00m,Palermo,€1.00m,Out,€1.00m
-5,FC Empoli,Mattia DestroM. Destro,32,Centre-Forward,CF,€1.30m,Without Club,-,Out,
-6,FC Empoli,Samir UjkaniS. Ujkani,34,Goalkeeper,GK,€100k,Without Club,-,Out,
-7,FC Empoli,Emanuel VignatoE. Vignato,22,Right Winger,RW,€2.00m,Bologna,"End of loan Jun 30, 2023",Out,
+5,FC Empoli,Gian Marco TognettiG. Tognetti,19,Left-Back,LB,€75k,Pianese,free transfer,Out,
+6,FC Empoli,Mattia DestroM. Destro,32,Centre-Forward,CF,€1.30m,Without Club,-,Out,
+7,FC Empoli,Samir UjkaniS. Ujkani,34,Goalkeeper,GK,€100k,Without Club,-,Out,
 8,FC Empoli,Francesco CaputoF. Caputo,35,Centre-Forward,CF,€1.50m,Sampdoria,"End of loan Jun 30, 2023",Out,
-9,FC Empoli,Jean-Daniel Akpa AkproJ. Akpa Akpro,30,Central Midfield,CM,€1.50m,Lazio,"End of loan Jun 30, 2023",Out,
-10,FC Empoli,Sebastian WalukiewiczS. Walukiewicz,23,Centre-Back,CB,€3.00m,Cagliari Calcio,"End of loan Jun 30, 2023",Out,
-11,FC Empoli,Marko PjacaM. Pjaca,28,Left Winger,LW,€1.70m,Juventus,"End of loan Jun 30, 2023",Out,
-12,FC Empoli,Alberto GrassiA. Grassi,28,Defensive Midfield,DM,€2.00m,Parma,"End of loan Jun 30, 2023",Out,
-13,FC Empoli,Sam LammersS. Lammers,26,Centre-Forward,CF,€2.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
-14,FC Empoli,Nicolò CambiaghiN. Cambiaghi,22,Left Winger,LW,€8.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
-15,FC Empoli,Sebastiano LupertoS. Luperto,26,Centre-Back,CB,€3.00m,SSC Napoli,"End of loan Jun 30, 2023",Out,
-16,FC Empoli,Koni De WinterK. De Winter,21,Centre-Back,CB,€4.00m,Juventus,"End of loan Jun 30, 2023",Out,
-17,FC Empoli,Martín SatrianoM. Satriano,22,Centre-Forward,CF,€7.00m,Inter,"End of loan Jun 30, 2023",Out,
+9,FC Empoli,Emanuel VignatoE. Vignato,22,Right Winger,RW,€2.00m,Bologna,"End of loan Jun 30, 2023",Out,
+10,FC Empoli,Jean-Daniel Akpa AkproJ. Akpa Akpro,30,Central Midfield,CM,€1.50m,Lazio,"End of loan Jun 30, 2023",Out,
+11,FC Empoli,Sebastian WalukiewiczS. Walukiewicz,23,Centre-Back,CB,€3.00m,Cagliari Calcio,"End of loan Jun 30, 2023",Out,
+12,FC Empoli,Marko PjacaM. Pjaca,28,Left Winger,LW,€1.70m,Juventus,"End of loan Jun 30, 2023",Out,
+13,FC Empoli,Alberto GrassiA. Grassi,28,Defensive Midfield,DM,€2.00m,Parma,"End of loan Jun 30, 2023",Out,
+14,FC Empoli,Sam LammersS. Lammers,26,Centre-Forward,CF,€2.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
+15,FC Empoli,Nicolò CambiaghiN. Cambiaghi,22,Left Winger,LW,€8.00m,Atalanta BC,"End of loan Jun 30, 2023",Out,
+16,FC Empoli,Sebastiano LupertoS. Luperto,26,Centre-Back,CB,€3.00m,SSC Napoli,"End of loan Jun 30, 2023",Out,
+17,FC Empoli,Koni De WinterK. De Winter,21,Centre-Back,CB,€4.00m,Juventus,"End of loan Jun 30, 2023",Out,
+18,FC Empoli,Martín SatrianoM. Satriano,22,Centre-Forward,CF,€7.00m,Inter,"End of loan Jun 30, 2023",Out,
 0,US Salernitana 1919,Boulaye DiaB. Dia,26,Centre-Forward,CF,€25.00m,Villarreal,€12.00m,In,€12.00m
 1,US Salernitana 1919,Lorenzo PirolaL. Pirola,21,Centre-Back,CB,€8.00m,Inter,€5.00m,In,€5.00m
 2,US Salernitana 1919,Antonio CandrevaA. Candreva,36,Right Midfield,RM,€1.50m,Sampdoria,€500k,In,€500k
@@ -224,19 +229,19 @@
 7,US Salernitana 1919,Domen CrnigojD. Crnigoj,27,Central Midfield,CM,€1.50m,Venezia,"End of loan Jun 30, 2023",Out,
 0,US Lecce,Youssef MalehY. Maleh,24,Central Midfield,CM,€4.50m,Fiorentina,€5.50m,In,€5.50m
 1,US Lecce,Marin PongracicM. Pongracic,25,Centre-Back,CB,€4.00m,VfL Wolfsburg,€2.00m,In,€2.00m
-2,US Lecce,Pontus AlmqvistP. Almqvist,23,Centre-Forward,CF,€1.80m,Rostov,loan transfer,In,
+2,US Lecce,Pontus AlmqvistP. Almqvist,23,Right Winger,RW,€1.80m,Rostov,loan transfer,In,
 0,US Lecce,Lorenzo ColomboL. Colombo,21,Centre-Forward,CF,€5.00m,AC Milan,"End of loan Jun 30, 2023",Out,
 1,US Lecce,Wladimiro FalconeW. Falcone,28,Goalkeeper,GK,€5.00m,Sampdoria,"End of loan Jun 30, 2023",Out,
 2,US Lecce,Fabio LucioniF. Lucioni,35,Centre-Back,CB,€600k,Palermo,?,Out,
 3,US Lecce,Alessandro TuiaA. Tuia,33,Centre-Back,CB,€400k,Without Club,-,Out,
-4,US Lecce,Pietro CeccaroniP. Ceccaroni,27,Centre-Back,CB,€1.60m,Venezia,"End of loan Jun 30, 2023",Out,
-5,US Lecce,Youssef MalehY. Maleh,24,Central Midfield,CM,€4.50m,Fiorentina,"End of loan Jun 30, 2023",Out,
-6,US Lecce,Rémi OudinR. Oudin,26,Right Winger,RW,€4.00m,G. Bordeaux,"End of loan Jun 30, 2023",Out,
-7,US Lecce,Giuseppe PezzellaG. Pezzella,25,Left-Back,LB,€2.50m,Parma,"End of loan Jun 30, 2023",Out,
-8,US Lecce,Samuel UmtitiS. Umtiti,29,Centre-Back,CB,€4.00m,Barcelona,"End of loan Jun 30, 2023",Out,
-9,US Lecce,Marin PongracicM. Pongracic,25,Centre-Back,CB,€4.00m,VfL Wolfsburg,"End of loan Jun 30, 2023",Out,
-10,US Lecce,Kristoffer AskildsenK. Askildsen,22,Central Midfield,CM,€2.00m,Sampdoria,"End of loan Jun 30, 2023",Out,
-11,US Lecce,Gianluca FrabottaG. Frabotta,24,Left-Back,LB,€1.40m,Juventus,"End of loan Jun 30, 2023",Out,
+4,US Lecce,Gianluca FrabottaG. Frabotta,24,Left-Back,LB,€1.40m,Juventus,"End of loan Jun 30, 2023",Out,
+5,US Lecce,Kristoffer AskildsenK. Askildsen,22,Central Midfield,CM,€2.00m,Sampdoria,"End of loan Jun 30, 2023",Out,
+6,US Lecce,Marin PongracicM. Pongracic,25,Centre-Back,CB,€4.00m,VfL Wolfsburg,"End of loan Jun 30, 2023",Out,
+7,US Lecce,Samuel UmtitiS. Umtiti,29,Centre-Back,CB,€4.00m,Barcelona,"End of loan Jun 30, 2023",Out,
+8,US Lecce,Giuseppe PezzellaG. Pezzella,25,Left-Back,LB,€2.50m,Parma,"End of loan Jun 30, 2023",Out,
+9,US Lecce,Rémi OudinR. Oudin,26,Right Winger,RW,€4.00m,G. Bordeaux,"End of loan Jun 30, 2023",Out,
+10,US Lecce,Youssef MalehY. Maleh,24,Central Midfield,CM,€4.50m,Fiorentina,"End of loan Jun 30, 2023",Out,
+11,US Lecce,Pietro CeccaroniP. Ceccaroni,27,Centre-Back,CB,€1.60m,Venezia,"End of loan Jun 30, 2023",Out,
 0,Hellas Verona,Yayah KallonY. Kallon,22,Right Winger,RW,€1.50m,Genoa,€2.80m,In,€2.80m
 1,Hellas Verona,Ondrej DudaO. Duda,28,Attacking Midfield,AM,€3.40m,1.FC Köln,€2.70m,In,€2.70m
 2,Hellas Verona,Jayden BraafJ. Braaf,20,Centre-Forward,CF,€1.00m,B. Dortmund II,€1.00m,In,€1.00m
@@ -246,84 +251,88 @@
 2,Hellas Verona,Matteo CancellieriM. Cancellieri,21,Right Winger,RW,€5.00m,Lazio,€7.96m,Out,€7.96m
 3,Hellas Verona,Gianluca CaprariG. Caprari,29,Second Striker,SS,€8.00m,Monza,€7.50m,Out,€7.50m
 4,Hellas Verona,Ibrahim SulemanaI. Sulemana,20,Defensive Midfield,DM,€1.50m,Cagliari Calcio,€4.00m,Out,€4.00m
-5,Hellas Verona,Ivor PandurI. Pandur,23,Goalkeeper,GK,€2.00m,Fortuna Sittard,?,Out,
-6,Hellas Verona,Panagiotis RetsosP. Retsos,24,Centre-Back,CB,€2.00m,Olympiacos,?,Out,
+5,Hellas Verona,Panagiotis RetsosP. Retsos,24,Centre-Back,CB,€2.00m,Olympiacos,?,Out,
+6,Hellas Verona,Ivor PandurI. Pandur,23,Goalkeeper,GK,€2.00m,Fortuna Sittard,?,Out,
 7,Hellas Verona,Mert CetinM. Cetin,26,Centre-Back,CB,€1.20m,Ankaragücü,loan transfer,Out,
 8,Hellas Verona,Jayden BraafJ. Braaf,20,Centre-Forward,CF,€1.00m,B. Dortmund II,"End of loan Jun 30, 2023",Out,
-9,Hellas Verona,Miguel VelosoM. Veloso,37,Defensive Midfield,DM,€500k,Without Club,-,Out,
-10,Hellas Verona,Adolfo GaichA. Gaich,24,Centre-Forward,CF,€1.80m,CSKA Moscow,"End of loan Jun 30, 2023",Out,
-11,Hellas Verona,Ondrej DudaO. Duda,28,Attacking Midfield,AM,€3.40m,1.FC Köln,"End of loan Jun 30, 2023",Out,
-12,Hellas Verona,Deyovaisio ZeefuikD. Zeefuik,25,Right-Back,RB,€1.20m,Hertha BSC,"End of loan Jun 30, 2023",Out,
-13,Hellas Verona,Fabio DepaoliF. Depaoli,26,Right-Back,RB,€3.00m,Sampdoria,"End of loan Jun 30, 2023",Out,
-14,Hellas Verona,Sebastian LarsenS. Larsen,19,Right-Back,RB,€75k,HB Köge U19,"End of loan Jun 30, 2023",Out,
-15,Hellas Verona,Oliver AbildgaardO. Abildgaard,27,Defensive Midfield,DM,€4.50m,Rubin Kazan,"End of loan Jun 30, 2023",Out,
-16,Hellas Verona,Simone VerdiS. Verdi,30,Attacking Midfield,AM,€4.00m,Torino,"End of loan Jun 30, 2023",Out,
-17,Hellas Verona,Yayah KallonY. Kallon,22,Right Winger,RW,€1.50m,Genoa,"End of loan Jun 30, 2023",Out,
-18,Hellas Verona,Alessandro CortinovisA. Cortinovis,22,Attacking Midfield,AM,€700k,Atalanta BC,"End of loan Jun 30, 2023",Out,
+9,Hellas Verona,Philip YeboahP. Yeboah,20,Centre-Forward,CF,€175k,Without Club,-,Out,
+10,Hellas Verona,Miguel VelosoM. Veloso,37,Defensive Midfield,DM,€500k,Without Club,-,Out,
+11,Hellas Verona,Adolfo GaichA. Gaich,24,Centre-Forward,CF,€1.80m,CSKA Moscow,"End of loan Jun 30, 2023",Out,
+12,Hellas Verona,Oliver AbildgaardO. Abildgaard,27,Defensive Midfield,DM,€4.50m,Rubin Kazan,"End of loan Jun 30, 2023",Out,
+13,Hellas Verona,Ondrej DudaO. Duda,28,Attacking Midfield,AM,€3.40m,1.FC Köln,"End of loan Jun 30, 2023",Out,
+14,Hellas Verona,Deyovaisio ZeefuikD. Zeefuik,25,Right-Back,RB,€1.20m,Hertha BSC,"End of loan Jun 30, 2023",Out,
+15,Hellas Verona,Fabio DepaoliF. Depaoli,26,Right-Back,RB,€3.00m,Sampdoria,"End of loan Jun 30, 2023",Out,
+16,Hellas Verona,Sebastian LarsenS. Larsen,19,Right-Back,RB,€75k,HB Köge U19,"End of loan Jun 30, 2023",Out,
+17,Hellas Verona,Simone VerdiS. Verdi,30,Attacking Midfield,AM,€4.00m,Torino,"End of loan Jun 30, 2023",Out,
+18,Hellas Verona,Yayah KallonY. Kallon,22,Right Winger,RW,€1.50m,Genoa,"End of loan Jun 30, 2023",Out,
+19,Hellas Verona,Alessandro CortinovisA. Cortinovis,22,Attacking Midfield,AM,€700k,Atalanta BC,"End of loan Jun 30, 2023",Out,
 0,Frosinone Calcio,Gennaro BorrelliG. Borrelli,23,Centre-Forward,CF,€500k,Pescara,€300k,In,€300k
 1,Frosinone Calcio,Marvin CuniM. Cuni,21,Centre-Forward,CF,€400k,FC Bayern II,free transfer,In,
 2,Frosinone Calcio,Luca MazzitelliL. Mazzitelli,27,Defensive Midfield,DM,€3.00m,Monza,?,In,
 3,Frosinone Calcio,Marco BrescianiniM. Brescianini,23,Central Midfield,CM,€900k,AC Milan,?,In,
 4,Frosinone Calcio,Giorgi KvernadzeG. Kvernadze,20,Left Winger,LW,€500k,Kolkheti Poti,loan transfer,In,
+5,Frosinone Calcio,Gabriele BracagliaG. Bracaglia,19,Centre-Back,CB,€75k,Frosinone U19,-,In,
 0,Frosinone Calcio,Samuele MulattieriS. Mulattieri,22,Centre-Forward,CF,€4.50m,Inter,"End of loan Jun 30, 2023",Out,
 1,Frosinone Calcio,Federico BevilacquaF. Bevilacqua,21,Centre-Back,CB,€25k,Dolomiti,free transfer,Out,
 2,Frosinone Calcio,Matteo CotaliM. Cotali,26,Left-Back,LB,€800k,Modena,free transfer,Out,
-3,Frosinone Calcio,Matteo RicciM. Ricci,29,Defensive Midfield,DM,€2.20m,Sampdoria,?,Out,
-4,Frosinone Calcio,Luigi CanottoL. Canotto,29,Right Winger,RW,€900k,Reggina,?,Out,
-5,Frosinone Calcio,Marko BozicM. Bozic,25,Right Midfield,RM,€500k,NK Maribor,?,Out,
-6,Frosinone Calcio,Alexander SatarianoA. Satariano,21,Centre-Forward,CF,€250k,Without Club,-,Out,
-7,Frosinone Calcio,Luca MatareseL. Matarese,25,Left Winger,LW,€75k,Without Club,-,Out,
-8,Frosinone Calcio,Marcus RohdénM. Rohdén,32,Central Midfield,CM,€1.00m,Without Club,-,Out,
-9,Frosinone Calcio,Giuseppe MarcianòG. Marcianò,23,Goalkeeper,GK,€50k,Without Club,-,Out,
-10,Frosinone Calcio,Michele VolpeM. Volpe,25,Centre-Forward,CF,€125k,Without Club,-,Out,
-11,Frosinone Calcio,Leonardo LoriaL. Loria,24,Goalkeeper,GK,€275k,Pisa,"End of loan Jun 30, 2023",Out,
-12,Frosinone Calcio,Fabio LucioniF. Lucioni,35,Centre-Back,CB,€600k,Lecce,"End of loan Jun 30, 2023",Out,
-13,Frosinone Calcio,Ilario MonterisiI. Monterisi,21,Centre-Back,CB,€300k,Lecce,"End of loan Jun 30, 2023",Out,
-14,Frosinone Calcio,Luca MoroLuca Moro,22,Centre-Forward,CF,€2.80m,Sassuolo,"End of loan Jun 30, 2023",Out,
-15,Frosinone Calcio,Stefano TuratiS. Turati,21,Goalkeeper,GK,€4.50m,Sassuolo,"End of loan Jun 30, 2023",Out,
+3,Frosinone Calcio,Roberto InsigneR. Insigne,29,Right Winger,RW,€1.80m,Palermo,?,Out,
+4,Frosinone Calcio,Marko BozicM. Bozic,25,Right Midfield,RM,€500k,NK Maribor,?,Out,
+5,Frosinone Calcio,Luigi CanottoL. Canotto,29,Right Winger,RW,€900k,Reggina,?,Out,
+6,Frosinone Calcio,Matteo RicciM. Ricci,29,Defensive Midfield,DM,€2.20m,Sampdoria,?,Out,
+7,Frosinone Calcio,Marcus RohdénM. Rohdén,32,Central Midfield,CM,€1.00m,Without Club,-,Out,
+8,Frosinone Calcio,Giuseppe MarcianòG. Marcianò,23,Goalkeeper,GK,€50k,Without Club,-,Out,
+9,Frosinone Calcio,Michele VolpeM. Volpe,25,Centre-Forward,CF,€125k,Without Club,-,Out,
+10,Frosinone Calcio,Alexander SatarianoA. Satariano,21,Centre-Forward,CF,€250k,Without Club,-,Out,
+11,Frosinone Calcio,Luca MatareseL. Matarese,25,Left Winger,LW,€75k,Without Club,-,Out,
+12,Frosinone Calcio,Gianluca FrabottaG. Frabotta,24,Left-Back,LB,€1.40m,Lecce,"End of loan Jun 29, 2023",Out,
+13,Frosinone Calcio,Luca RavanelliL. Ravanelli,26,Centre-Back,CB,€1.40m,Cremonese,"End of loan Jun 30, 2023",Out,
+14,Frosinone Calcio,Mario SampirisiM. Sampirisi,30,Right-Back,RB,€750k,Monza,"End of loan Jun 30, 2023",Out,
+15,Frosinone Calcio,Luca MazzitelliL. Mazzitelli,27,Defensive Midfield,DM,€3.00m,Monza,"End of loan Jun 30, 2023",Out,
 16,Frosinone Calcio,Andrea OliveriA. Oliveri,20,Right Midfield,RM,€400k,Atalanta BC,"End of loan Jun 30, 2023",Out,
-17,Frosinone Calcio,Gennaro BorrelliG. Borrelli,23,Centre-Forward,CF,€500k,Pescara,"End of loan Jun 30, 2023",Out,
+17,Frosinone Calcio,Miloš BočićM. Bočić,23,Centre-Forward,CF,€200k,Pescara,"End of loan Jun 30, 2023",Out,
 18,Frosinone Calcio,Ben Lhassine KoneB. Kone,23,Central Midfield,CM,€900k,Torino,"End of loan Jun 30, 2023",Out,
-19,Frosinone Calcio,Miloš BočićM. Bočić,23,Centre-Forward,CF,€200k,Pescara,"End of loan Jun 30, 2023",Out,
-20,Frosinone Calcio,Giacomo ManzariG. Manzari,22,Left Winger,LW,€300k,Sassuolo,"End of loan Jun 30, 2023",Out,
-21,Frosinone Calcio,Gianluca FrabottaG. Frabotta,24,Left-Back,LB,€1.40m,Lecce,"End of loan Jun 29, 2023",Out,
-22,Frosinone Calcio,Luca RavanelliL. Ravanelli,26,Centre-Back,CB,€1.40m,Cremonese,"End of loan Jun 30, 2023",Out,
-23,Frosinone Calcio,Mario SampirisiM. Sampirisi,30,Right-Back,RB,€750k,Monza,"End of loan Jun 30, 2023",Out,
-24,Frosinone Calcio,Luca MazzitelliL. Mazzitelli,27,Defensive Midfield,DM,€3.00m,Monza,"End of loan Jun 30, 2023",Out,
+19,Frosinone Calcio,Gennaro BorrelliG. Borrelli,23,Centre-Forward,CF,€500k,Pescara,"End of loan Jun 30, 2023",Out,
+20,Frosinone Calcio,Leonardo LoriaL. Loria,24,Goalkeeper,GK,€275k,Pisa,"End of loan Jun 30, 2023",Out,
+21,Frosinone Calcio,Stefano TuratiS. Turati,21,Goalkeeper,GK,€4.50m,Sassuolo,"End of loan Jun 30, 2023",Out,
+22,Frosinone Calcio,Luca MoroLuca Moro,22,Centre-Forward,CF,€2.80m,Sassuolo,"End of loan Jun 30, 2023",Out,
+23,Frosinone Calcio,Ilario MonterisiI. Monterisi,21,Centre-Back,CB,€300k,Lecce,"End of loan Jun 30, 2023",Out,
+24,Frosinone Calcio,Fabio LucioniF. Lucioni,35,Centre-Back,CB,€600k,Lecce,"End of loan Jun 30, 2023",Out,
+25,Frosinone Calcio,Giacomo ManzariG. Manzari,22,Left Winger,LW,€300k,Sassuolo,"End of loan Jun 30, 2023",Out,
 0,Genoa CFC,Radu DragusinR. Dragusin,21,Centre-Back,CB,€8.00m,Juventus,€5.50m,In,€5.50m
 1,Genoa CFC,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,RB Leipzig,€3.50m,In,€3.50m
 2,Genoa CFC,George PuscasG. Puscas,27,Centre-Forward,CF,€2.50m,Reading,€3.00m,In,€3.00m
 3,Genoa CFC,Mattia AramuM. Aramu,28,Attacking Midfield,AM,€2.20m,Venezia,€2.50m,In,€2.50m
-4,Genoa CFC,Kevin StrootmanK. Strootman,33,Central Midfield,CM,€1.30m,Marseille,free transfer,In,
-5,Genoa CFC,Nicola LealiN. Leali,30,Goalkeeper,GK,€900k,Ascoli,free transfer,In,
-6,Genoa CFC,Aarón MartínA. Martín,26,Left-Back,LB,€7.00m,1.FSV Mainz 05,free transfer,In,
+4,Genoa CFC,Nicola LealiN. Leali,30,Goalkeeper,GK,€900k,Ascoli,free transfer,In,
+5,Genoa CFC,Aarón MartínA. Martín,26,Left-Back,LB,€7.00m,1.FSV Mainz 05,free transfer,In,
+6,Genoa CFC,Kevin StrootmanK. Strootman,33,Central Midfield,CM,€1.30m,Marseille,free transfer,In,
 7,Genoa CFC,Daniele SommarivaD. Sommariva,25,Goalkeeper,GK,€100k,Pescara,?,In,
 0,Genoa CFC,Yayah KallonY. Kallon,22,Right Winger,RW,€1.50m,Hellas Verona,€2.80m,Out,€2.80m
 1,Genoa CFC,Rok VodisekR. Vodisek,24,Goalkeeper,GK,€50k,NK Rogaska,free transfer,Out,
 2,Genoa CFC,Daniel FossatiD. Fossati,19,Centre-Forward,CF,€150k,Pontedera,loan transfer,Out,
-3,Genoa CFC,Giacomo CalòG. Calò,26,Defensive Midfield,DM,€750k,Cosenza,?,Out,
-4,Genoa CFC,Lennart CzyborraL. Czyborra,24,Left-Back,LB,€1.40m,PEC Zwolle,loan transfer,Out,
-5,Genoa CFC,Patrizio MasiniP. Masini,22,Central Midfield,CM,€300k,Ascoli,loan transfer,Out,
-6,Genoa CFC,Aleksander BuksaA. Buksa,20,Centre-Forward,CF,€700k,WSG Tirol,loan transfer,Out,
-7,Genoa CFC,Domenico CriscitoD. Criscito,36,Left-Back,LB,-,Retired,-,Out,
-8,Genoa CFC,Stefano SturaroS. Sturaro,30,Central Midfield,CM,€1.50m,Without Club,-,Out,
-9,Genoa CFC,Alessandro MarcandalliA. Marcandalli,21,Centre-Back,CB,€200k,Reggiana,loan transfer,Out,
-10,Genoa CFC,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,RB Leipzig,"End of loan Jun 30, 2023",Out,
-11,Genoa CFC,George PuscasG. Puscas,27,Centre-Forward,CF,€2.50m,Reading,"End of loan Jun 30, 2023",Out,
-12,Genoa CFC,Radu DragusinR. Dragusin,21,Centre-Back,CB,€8.00m,Juventus,"End of loan Jun 30, 2023",Out,
-13,Genoa CFC,Kevin StrootmanK. Strootman,33,Central Midfield,CM,€1.30m,Marseille,"End of loan Jun 30, 2023",Out,
-14,Genoa CFC,Mattia AramuM. Aramu,28,Attacking Midfield,AM,€2.20m,Venezia,"End of loan Jun 30, 2023",Out,
-15,Genoa CFC,Ridgeciano HapsR. Haps,30,Left-Back,LB,€1.00m,Venezia,"End of loan Jun 30, 2023",Out,
-16,Genoa CFC,Eddie SalcedoE. Salcedo,21,Centre-Forward,CF,€2.50m,Inter,"End of loan Jun 30, 2023",Out,
-17,Genoa CFC,Denis DragusD. Dragus,23,Centre-Forward,CF,€1.40m,Standard Liège,"End of loan Jun 30, 2023",Out,
+3,Genoa CFC,Adrian SemperA. Semper,25,Goalkeeper,GK,€1.20m,Como,?,Out,
+4,Genoa CFC,Giacomo CalòG. Calò,26,Defensive Midfield,DM,€750k,Cosenza,?,Out,
+5,Genoa CFC,Aleksander BuksaA. Buksa,20,Centre-Forward,CF,€700k,WSG Tirol,loan transfer,Out,
+6,Genoa CFC,Patrizio MasiniP. Masini,22,Central Midfield,CM,€300k,Ascoli,loan transfer,Out,
+7,Genoa CFC,Lennart CzyborraL. Czyborra,24,Left-Back,LB,€1.40m,PEC Zwolle,loan transfer,Out,
+8,Genoa CFC,Domenico CriscitoD. Criscito,36,Left-Back,LB,-,Retired,-,Out,
+9,Genoa CFC,Stefano SturaroS. Sturaro,30,Central Midfield,CM,€1.50m,Without Club,-,Out,
+10,Genoa CFC,Alessandro MarcandalliA. Marcandalli,21,Centre-Back,CB,€200k,Reggiana,loan transfer,Out,
+11,Genoa CFC,Ridgeciano HapsR. Haps,30,Left-Back,LB,€1.00m,Venezia,"End of loan Jun 30, 2023",Out,
+12,Genoa CFC,Eddie SalcedoE. Salcedo,21,Centre-Forward,CF,€2.50m,Inter,"End of loan Jun 30, 2023",Out,
+13,Genoa CFC,Denis DragusD. Dragus,23,Centre-Forward,CF,€1.40m,Standard Liège,"End of loan Jun 30, 2023",Out,
+14,Genoa CFC,George PuscasG. Puscas,27,Centre-Forward,CF,€2.50m,Reading,"End of loan Jun 30, 2023",Out,
+15,Genoa CFC,Mattia AramuM. Aramu,28,Attacking Midfield,AM,€2.20m,Venezia,"End of loan Jun 30, 2023",Out,
+16,Genoa CFC,Kevin StrootmanK. Strootman,33,Central Midfield,CM,€1.30m,Marseille,"End of loan Jun 30, 2023",Out,
+17,Genoa CFC,Radu DragusinR. Dragusin,21,Centre-Back,CB,€8.00m,Juventus,"End of loan Jun 30, 2023",Out,
+18,Genoa CFC,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,RB Leipzig,"End of loan Jun 30, 2023",Out,
 0,Cagliari Calcio,Ibrahim SulemanaI. Sulemana,20,Defensive Midfield,DM,€1.50m,Hellas Verona,€4.00m,In,€4.00m
 1,Cagliari Calcio,Alessandro Di PardoA. Di Pardo,23,Right-Back,RB,€600k,Juve Next Gen,€1.10m,In,€1.10m
 2,Cagliari Calcio,Christian TravagliniC. Travaglini,23,Left-Back,LB,€200k,Olbia,€100k,In,€100k
 0,Cagliari Calcio,Raoul BellanovaR. Bellanova,23,Right-Back,RB,€5.00m,Torino,€7.00m,Out,€7.00m
 1,Cagliari Calcio,Alessio CragnoA. Cragno,29,Goalkeeper,GK,€3.00m,Monza,€3.60m,Out,€3.60m
 2,Cagliari Calcio,Sebastian WalukiewiczS. Walukiewicz,23,Centre-Back,CB,€3.00m,FC Empoli,€1.00m,Out,€1.00m
-3,Cagliari Calcio,Alberto CerriA. Cerri,27,Centre-Forward,CF,€2.00m,Como,?,Out,
-4,Cagliari Calcio,Nik PrelecN. Prelec,22,Centre-Forward,CF,€600k,WSG Tirol,loan transfer,Out,
-5,Cagliari Calcio,Vincenzo MillicoV. Millico,22,Left Winger,LW,€800k,Without Club,-,Out,
+3,Cagliari Calcio,Vincenzo MillicoV. Millico,22,Left Winger,LW,€800k,Ascoli,free transfer,Out,
+4,Cagliari Calcio,Alberto CerriA. Cerri,27,Centre-Forward,CF,€2.00m,Como,?,Out,
+5,Cagliari Calcio,Nik PrelecN. Prelec,22,Centre-Forward,CF,€600k,WSG Tirol,loan transfer,Out,
 6,Cagliari Calcio,Alessandro Di PardoA. Di Pardo,23,Right-Back,RB,€600k,Juve Next Gen,"End of loan Jun 30, 2023",Out,
 7,Cagliari Calcio,Filippo FalcoF. Falco,31,Right Winger,RW,€700k,Red Star,"End of loan Jun 30, 2023",Out,
