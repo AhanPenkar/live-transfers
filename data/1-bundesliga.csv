@@ -14,41 +14,43 @@
 0,Borussia Dortmund,Felix NmechaF. Nmecha,22,Attacking Midfield,AM,€15.00m,VfL Wolfsburg,€30.00m,In,€30.00m
 1,Borussia Dortmund,Ramy BensebainiR. Bensebaini,28,Left-Back,LB,€20.00m,Bor. M'gladbach,free transfer,In,
 2,Borussia Dortmund,Ole PohlmannO. Pohlmann,22,Central Midfield,CM,€400k,B. Dortmund II,-,In,
-3,Borussia Dortmund,Thorgan HazardT. Hazard,30,Left Winger,LW,€7.00m,PSV Eindhoven,"End of loan Jun 30, 2023",In,
-4,Borussia Dortmund,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,E. Frankfurt,"End of loan Jun 30, 2023",In,
+3,Borussia Dortmund,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,E. Frankfurt,"End of loan Jun 30, 2023",In,
+4,Borussia Dortmund,Thorgan HazardT. Hazard,30,Left Winger,LW,€7.00m,PSV Eindhoven,"End of loan Jun 30, 2023",In,
 0,Borussia Dortmund,Jude BellinghamJ. Bellingham,20,Central Midfield,CM,€120.00m,Real Madrid,€103.00m,Out,€103.00m
 1,Borussia Dortmund,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,E. Frankfurt,€5.00m,Out,€5.00m
 2,Borussia Dortmund,Tom RotheTom Rothe,18,Left-Back,LB,€3.50m,Holstein Kiel,Loan fee: €350k,Out, €350k
-3,Borussia Dortmund,Raphaël GuerreiroR. Guerreiro,29,Left-Back,LB,€20.00m,Bayern Munich,free transfer,Out,
-4,Borussia Dortmund,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Brighton,free transfer,Out,
-5,Borussia Dortmund,Felix PasslackF. Passlack,25,Right-Back,RB,€1.50m,VfL Bochum,free transfer,Out,
-6,Borussia Dortmund,Luca UnbehaunL. Unbehaun,22,Goalkeeper,GK,€650k,SC Verl,free transfer,Out,
+3,Borussia Dortmund,Felix PasslackF. Passlack,25,Right-Back,RB,€1.50m,VfL Bochum,free transfer,Out,
+4,Borussia Dortmund,Luca UnbehaunL. Unbehaun,22,Goalkeeper,GK,€650k,SC Verl,free transfer,Out,
+5,Borussia Dortmund,Mahmoud DahoudM. Dahoud,27,Central Midfield,CM,€12.00m,Brighton,free transfer,Out,
+6,Borussia Dortmund,Raphaël GuerreiroR. Guerreiro,29,Left-Back,LB,€20.00m,Bayern Munich,free transfer,Out,
 7,Borussia Dortmund,Anthony ModesteA. Modeste,35,Centre-Forward,CF,€700k,Without Club,-,Out,
-0,RB Leipzig,Christoph BaumgartnerC. Baumgartner,23,Attacking Midfield,AM,€24.00m,TSG Hoffenheim,€24.00m,In,€24.00m
-1,RB Leipzig,Benjamin SeskoB. Sesko,20,Centre-Forward,CF,€24.00m,RB Salzburg,€24.00m,In,€24.00m
-2,RB Leipzig,Nicolas SeiwaldN. Seiwald,22,Central Midfield,CM,€20.00m,RB Salzburg,€20.00m,In,€20.00m
-3,RB Leipzig,Leopold ZingerleL. Zingerle,29,Goalkeeper,GK,€400k,SC Paderborn,free transfer,In,
-4,RB Leipzig,Fábio CarvalhoF. Carvalho,20,Attacking Midfield,AM,€16.00m,Liverpool,loan transfer,In,
-5,RB Leipzig,Hugo NovoaH. Novoa,20,Right Winger,RW,€4.30m,FC Basel,"End of loan Jun 30, 2023",In,
+0,RB Leipzig,Loïs OpendaL. Openda,23,Centre-Forward,CF,€35.00m,Lens,€43.00m,In,€43.00m
+1,RB Leipzig,Christoph BaumgartnerC. Baumgartner,23,Attacking Midfield,AM,€24.00m,TSG Hoffenheim,€24.00m,In,€24.00m
+2,RB Leipzig,Benjamin SeskoB. Sesko,20,Centre-Forward,CF,€24.00m,RB Salzburg,€24.00m,In,€24.00m
+3,RB Leipzig,Nicolas SeiwaldN. Seiwald,22,Central Midfield,CM,€20.00m,RB Salzburg,€20.00m,In,€20.00m
+4,RB Leipzig,Leopold ZingerleL. Zingerle,29,Goalkeeper,GK,€400k,SC Paderborn,free transfer,In,
+5,RB Leipzig,Fábio CarvalhoF. Carvalho,20,Attacking Midfield,AM,€16.00m,Liverpool,loan transfer,In,
 6,RB Leipzig,Tom KraußT. Krauß,22,Central Midfield,CM,€7.00m,FC Schalke 04,"End of loan Jun 30, 2023",In,
-7,RB Leipzig,Frederik JäkelF. Jäkel,22,Centre-Back,CB,€900k,Arm. Bielefeld,"End of loan Jun 30, 2023",In,
-8,RB Leipzig,Mehmet IbrahimiM. Ibrahimi,20,Left Winger,LW,€150k,E. Braunschweig,"End of loan Jun 30, 2023",In,
-9,RB Leipzig,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,Genoa,"End of loan Jun 30, 2023",In,
-10,RB Leipzig,Fabrice HartmannF. Hartmann,22,Right Winger,RW,€250k,Sligo Rovers,"End of loan Jun 30, 2023",In,
-11,RB Leipzig,AngeliñoAngeliño,26,Left-Back,LB,€12.00m,TSG Hoffenheim,"End of loan Jun 30, 2023",In,
-12,RB Leipzig,Alexander SørlothA. Sørloth,27,Centre-Forward,CF,€12.00m,Real Sociedad,"End of loan Jun 30, 2023",In,
-13,RB Leipzig,Ilaix MoribaI. Moriba,20,Central Midfield,CM,€4.00m,Valencia,"End of loan Jun 30, 2023",In,
-14,RB Leipzig,Tim SchreiberT. Schreiber,21,Goalkeeper,GK,€600k,Holstein Kiel,"End of loan Jun 30, 2023",In,
+7,RB Leipzig,Alexander SørlothA. Sørloth,27,Centre-Forward,CF,€12.00m,Real Sociedad,"End of loan Jun 30, 2023",In,
+8,RB Leipzig,Frederik JäkelF. Jäkel,22,Centre-Back,CB,€900k,Arm. Bielefeld,"End of loan Jun 30, 2023",In,
+9,RB Leipzig,Mehmet IbrahimiM. Ibrahimi,20,Left Winger,LW,€150k,E. Braunschweig,"End of loan Jun 30, 2023",In,
+10,RB Leipzig,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,Genoa,"End of loan Jun 30, 2023",In,
+11,RB Leipzig,Fabrice HartmannF. Hartmann,22,Right Winger,RW,€250k,Sligo Rovers,"End of loan Jun 30, 2023",In,
+12,RB Leipzig,Tim SchreiberT. Schreiber,21,Goalkeeper,GK,€600k,Holstein Kiel,"End of loan Jun 30, 2023",In,
+13,RB Leipzig,AngeliñoAngeliño,26,Left-Back,LB,€12.00m,TSG Hoffenheim,"End of loan Jun 30, 2023",In,
+14,RB Leipzig,Hugo NovoaH. Novoa,20,Right Winger,RW,€4.30m,FC Basel,"End of loan Jun 30, 2023",In,
+15,RB Leipzig,Ilaix MoribaI. Moriba,20,Central Midfield,CM,€4.00m,Valencia,"End of loan Jun 30, 2023",In,
 0,RB Leipzig,Dominik SzoboszlaiD. Szoboszlai,22,Attacking Midfield,AM,€50.00m,Liverpool,€70.00m,Out,€70.00m
 1,RB Leipzig,Christopher NkunkuC. Nkunku,25,Second Striker,SS,€80.00m,Chelsea,€60.00m,Out,€60.00m
-2,RB Leipzig,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,Genoa,€3.50m,Out,€3.50m
-3,RB Leipzig,Konrad LaimerK. Laimer,26,Central Midfield,CM,€28.00m,Bayern Munich,free transfer,Out,
-4,RB Leipzig,Sanoussy BaS. Ba,19,Left-Back,LB,€500k,LASK,loan transfer,Out,
-5,RB Leipzig,Tim SchreiberT. Schreiber,21,Goalkeeper,GK,€600k,Saarbrücken,loan transfer,Out,
-6,RB Leipzig,AngeliñoAngeliño,26,Left-Back,LB,€12.00m,Galatasaray,loan transfer,Out,
-7,RB Leipzig,Oskar PreilO. Preil,19,Goalkeeper,GK,€200k,Without Club,-,Out,
-8,RB Leipzig,Örjan NylandÖ. Nyland,32,Goalkeeper,GK,€600k,Without Club,-,Out,
-9,RB Leipzig,Abdou DialloA. Diallo,27,Centre-Back,CB,€10.00m,Paris SG,"End of loan Jun 30, 2023",Out,
+2,RB Leipzig,Tom KraußT. Krauß,22,Central Midfield,CM,€7.00m,1.FSV Mainz 05,€5.00m,Out,€5.00m
+3,RB Leipzig,Josep MartínezJ. Martínez,25,Goalkeeper,GK,€3.50m,Genoa,€3.50m,Out,€3.50m
+4,RB Leipzig,AngeliñoAngeliño,26,Left-Back,LB,€12.00m,Galatasaray,Loan fee: €1.50m,Out, €1.50m
+5,RB Leipzig,Konrad LaimerK. Laimer,26,Central Midfield,CM,€28.00m,Bayern Munich,free transfer,Out,
+6,RB Leipzig,Sanoussy BaS. Ba,19,Left-Back,LB,€500k,LASK,loan transfer,Out,
+7,RB Leipzig,Tim SchreiberT. Schreiber,21,Goalkeeper,GK,€600k,Saarbrücken,loan transfer,Out,
+8,RB Leipzig,Oskar PreilO. Preil,19,Goalkeeper,GK,€200k,Without Club,-,Out,
+9,RB Leipzig,Örjan NylandÖ. Nyland,32,Goalkeeper,GK,€600k,Without Club,-,Out,
+10,RB Leipzig,Abdou DialloA. Diallo,27,Centre-Back,CB,€10.00m,Paris SG,"End of loan Jun 30, 2023",Out,
 0,1.FC Union Berlin,Diogo LeiteD. Leite,24,Centre-Back,CB,€15.00m,FC Porto,€7.50m,In,€7.50m
 1,1.FC Union Berlin,Mikkel KaufmannM. Kaufmann,22,Centre-Forward,CF,€2.70m,FC Copenhagen,€2.70m,In,€2.70m
 2,1.FC Union Berlin,Lennart GrillL. Grill,24,Goalkeeper,GK,€1.00m,B. Leverkusen,?,In,
@@ -83,18 +85,19 @@
 1,SC Freiburg,Florian MüllerF. Müller,25,Goalkeeper,GK,€1.50m,VfB Stuttgart,€1.50m,In,€1.50m
 2,SC Freiburg,Max RosenfelderM. Rosenfelder,20,Centre-Back,CB,€500k,SC Freiburg II,-,In,
 3,SC Freiburg,Jordy MakengoJ. Makengo,21,Left-Back,LB,€350k,SC Freiburg II,-,In,
-4,SC Freiburg,Lino TempelmannL. Tempelmann,24,Central Midfield,CM,€2.00m,1.FC Nuremberg,"End of loan Jun 30, 2023",In,
-5,SC Freiburg,Nishan BurkartN. Burkart,23,Left Winger,LW,€500k,FC Winterthur,"End of loan Jun 30, 2023",In,
-6,SC Freiburg,Keven SchlotterbeckK. Schlotterbeck,26,Centre-Back,CB,€3.00m,VfL Bochum,"End of loan Jun 30, 2023",In,
-7,SC Freiburg,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,Brentford,"End of loan Jun 30, 2023",In,
+4,SC Freiburg,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,Brentford,"End of loan Jun 30, 2023",In,
+5,SC Freiburg,Keven SchlotterbeckK. Schlotterbeck,26,Centre-Back,CB,€3.00m,VfL Bochum,"End of loan Jun 30, 2023",In,
+6,SC Freiburg,Nishan BurkartN. Burkart,23,Left Winger,LW,€500k,FC Winterthur,"End of loan Jun 30, 2023",In,
+7,SC Freiburg,Lino TempelmannL. Tempelmann,24,Central Midfield,CM,€2.00m,1.FC Nuremberg,"End of loan Jun 30, 2023",In,
 0,SC Freiburg,Kevin SchadeK. Schade,21,Right Winger,RW,€25.00m,Brentford,€25.00m,Out,€25.00m
 1,SC Freiburg,Mark FlekkenM. Flekken,30,Goalkeeper,GK,€10.00m,Brentford,€13.00m,Out,€13.00m
 2,SC Freiburg,Woo-yeong JeongW. Jeong,23,Second Striker,SS,€3.50m,VfB Stuttgart,€2.80m,Out,€2.80m
-3,SC Freiburg,Nishan BurkartN. Burkart,23,Left Winger,LW,€500k,FC Winterthur,€300k,Out,€300k
-4,SC Freiburg,Robert WagnerR. Wagner,19,Central Midfield,CM,€1.40m,Greuther Fürth,loan transfer,Out,
-5,SC Freiburg,Kimberly EzekwemK. Ezekwem,22,Left Midfield,LM,€350k,SC Paderborn,loan transfer,Out,
-6,SC Freiburg,Nils PetersenN. Petersen,34,Centre-Forward,CF,-,Retired,-,Out,
+3,SC Freiburg,Lino TempelmannL. Tempelmann,24,Central Midfield,CM,€2.00m,FC Schalke 04,€400k,Out,€400k
+4,SC Freiburg,Nishan BurkartN. Burkart,23,Left Winger,LW,€500k,FC Winterthur,€300k,Out,€300k
+5,SC Freiburg,Robert WagnerR. Wagner,19,Central Midfield,CM,€1.40m,Greuther Fürth,loan transfer,Out,
+6,SC Freiburg,Kimberly EzekwemK. Ezekwem,22,Left Midfield,LM,€350k,SC Paderborn,loan transfer,Out,
 7,SC Freiburg,Jonathan SchmidJ. Schmid,33,Right-Back,RB,€900k,Without Club,-,Out,
+8,SC Freiburg,Nils PetersenN. Petersen,34,Centre-Forward,CF,-,Retired,-,Out,
 0,Bayer 04 Leverkusen,Granit XhakaG. Xhaka,30,Central Midfield,CM,€20.00m,Arsenal,€25.00m,In,€25.00m
 1,Bayer 04 Leverkusen,Jonas HofmannJ. Hofmann,30,Right Winger,RW,€13.00m,Bor. M'gladbach,€10.00m,In,€10.00m
 2,Bayer 04 Leverkusen,ArthurArthur,20,Right-Back,RB,€5.00m,América-MG,€7.00m,In,€7.00m
@@ -116,25 +119,26 @@
 1,Eintracht Frankfurt,Hugo LarssonH. Larsson,19,Central Midfield,CM,€9.00m,Malmö FF,€9.00m,In,€9.00m
 2,Eintracht Frankfurt,Junior Dina EbimbeJ. Dina Ebimbe,22,Right Midfield,RM,€10.00m,Paris SG,€6.50m,In,€6.50m
 3,Eintracht Frankfurt,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,Bor. Dortmund,€5.00m,In,€5.00m
-4,Eintracht Frankfurt,Philipp MaxP. Max,29,Left-Back,LB,€3.00m,PSV Eindhoven,€1.90m,In,€1.90m
-5,Eintracht Frankfurt,Robin KochR. Koch,26,Centre-Back,CB,€18.00m,Leeds,Loan fee: €500k,In, €500k
-6,Eintracht Frankfurt,Ellyes SkhiriE. Skhiri,28,Defensive Midfield,DM,€13.00m,1.FC Köln,free transfer,In,
-7,Eintracht Frankfurt,Omar MarmoushO. Marmoush,24,Centre-Forward,CF,€6.00m,VfL Wolfsburg,free transfer,In,
-8,Eintracht Frankfurt,Davis BautistaD. Bautista,18,Centre-Back,CB,€250k,Aucas U20,?,In,
-9,Eintracht Frankfurt,Harpreet GhotraH. Ghotra,20,Central Midfield,CM,-,E. Frankfurt II,-,In,
-10,Eintracht Frankfurt,Dario GebuhrD. Gebuhr,20,Centre-Back,CB,€400k,E. Frankfurt II,-,In,
-11,Eintracht Frankfurt,Ragnar AcheR. Ache,24,Centre-Forward,CF,€1.00m,Greuther Fürth,"End of loan Jun 30, 2023",In,
-12,Eintracht Frankfurt,Ali AkmanAli Akman,21,Centre-Forward,CF,€650k,Göztepe,"End of loan Jun 30, 2023",In,
-13,Eintracht Frankfurt,Jens Petter HaugeJ. Hauge,23,Right Winger,RW,€2.50m,KAA Gent,"End of loan Jun 30, 2023",In,
-14,Eintracht Frankfurt,Jérôme OnguénéJ. Onguéné,25,Centre-Back,CB,€2.00m,RB Salzburg,"End of loan Jun 30, 2023",In,
-15,Eintracht Frankfurt,Igor MatanovicI. Matanovic,20,Centre-Forward,CF,€800k,FC St. Pauli,"End of loan Jun 30, 2023",In,
+4,Eintracht Frankfurt,Jessic NgankamJ. Ngankam,22,Centre-Forward,CF,€5.00m,Hertha BSC,€4.00m,In,€4.00m
+5,Eintracht Frankfurt,Philipp MaxP. Max,29,Left-Back,LB,€3.00m,PSV Eindhoven,€1.90m,In,€1.90m
+6,Eintracht Frankfurt,Robin KochR. Koch,26,Centre-Back,CB,€18.00m,Leeds,Loan fee: €500k,In, €500k
+7,Eintracht Frankfurt,Ellyes SkhiriE. Skhiri,28,Defensive Midfield,DM,€13.00m,1.FC Köln,free transfer,In,
+8,Eintracht Frankfurt,Omar MarmoushO. Marmoush,24,Centre-Forward,CF,€6.00m,VfL Wolfsburg,free transfer,In,
+9,Eintracht Frankfurt,Davis BautistaD. Bautista,18,Centre-Back,CB,€250k,Aucas U20,?,In,
+10,Eintracht Frankfurt,Harpreet GhotraH. Ghotra,20,Central Midfield,CM,-,E. Frankfurt II,-,In,
+11,Eintracht Frankfurt,Dario GebuhrD. Gebuhr,20,Centre-Back,CB,€400k,E. Frankfurt II,-,In,
+12,Eintracht Frankfurt,Igor MatanovicI. Matanovic,20,Centre-Forward,CF,€800k,FC St. Pauli,"End of loan Jun 30, 2023",In,
+13,Eintracht Frankfurt,Jérôme OnguénéJ. Onguéné,25,Centre-Back,CB,€2.00m,RB Salzburg,"End of loan Jun 30, 2023",In,
+14,Eintracht Frankfurt,Jens Petter HaugeJ. Hauge,23,Attack,Attack,€2.50m,KAA Gent,"End of loan Jun 30, 2023",In,
+15,Eintracht Frankfurt,Ali AkmanAli Akman,21,Centre-Forward,CF,€650k,Göztepe,"End of loan Jun 30, 2023",In,
+16,Eintracht Frankfurt,Ragnar AcheR. Ache,24,Centre-Forward,CF,€1.00m,Greuther Fürth,"End of loan Jun 30, 2023",In,
 0,Eintracht Frankfurt,Evan NdickaE. Ndicka,23,Centre-Back,CB,€28.00m,AS Roma,free transfer,Out,
-1,Eintracht Frankfurt,Jan SchröderJ. Schröder,20,Left-Back,LB,€200k,Without Club,-,Out,
-2,Eintracht Frankfurt,Almamy TouréA. Touré,27,Centre-Back,CB,€2.50m,Without Club,-,Out,
+1,Eintracht Frankfurt,Almamy TouréA. Touré,27,Centre-Back,CB,€2.50m,Without Club,-,Out,
+2,Eintracht Frankfurt,Jan SchröderJ. Schröder,20,Left-Back,LB,€200k,Without Club,-,Out,
 3,Eintracht Frankfurt,Daichi KamadaD. Kamada,26,Attacking Midfield,AM,€27.00m,Without Club,-,Out,
-4,Eintracht Frankfurt,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,Bor. Dortmund,"End of loan Jun 30, 2023",Out,
+4,Eintracht Frankfurt,Philipp MaxP. Max,29,Left-Back,LB,€3.00m,PSV Eindhoven,"End of loan Jun 30, 2023",Out,
 5,Eintracht Frankfurt,Junior Dina EbimbeJ. Dina Ebimbe,22,Right Midfield,RM,€10.00m,Paris SG,"End of loan Jun 30, 2023",Out,
-6,Eintracht Frankfurt,Philipp MaxP. Max,29,Left-Back,LB,€3.00m,PSV Eindhoven,"End of loan Jun 30, 2023",Out,
+6,Eintracht Frankfurt,Ansgar KnauffA. Knauff,21,Right Winger,RW,€8.00m,Bor. Dortmund,"End of loan Jun 30, 2023",Out,
 0,VfL Wolfsburg,Tiago TomásT. Tomás,21,Centre-Forward,CF,€7.00m,Sporting CP,€8.00m,In,€8.00m
 1,VfL Wolfsburg,Vaclav CernyV. Cerny,25,Right Winger,RW,€8.00m,Twente FC,€8.00m,In,€8.00m
 2,VfL Wolfsburg,Moritz JenzM. Jenz,24,Centre-Back,CB,€7.50m,FC Lorient,€8.00m,In,€8.00m
@@ -162,36 +166,39 @@
 8,VfL Wolfsburg,Bartosz BialekB. Bialek,21,Centre-Forward,CF,€3.00m,KAS Eupen,loan transfer,Out,
 9,VfL Wolfsburg,Luca WaldschmidtL. Waldschmidt,27,Second Striker,SS,€3.00m,1.FC Köln,loan transfer,Out,
 10,VfL Wolfsburg,Josuha GuilavoguiJ. Guilavogui,32,Defensive Midfield,DM,€2.00m,Without Club,-,Out,
-0,1.FSV Mainz 05,Daniel BatzD. Batz,32,Goalkeeper,GK,€350k,Saarbrücken,?,In,
-1,1.FSV Mainz 05,Lucas LauxL. Laux,20,Centre-Back,CB,€175k,FSV Mainz 05 II,-,In,
-2,1.FSV Mainz 05,Merveille PapelaM. Papela,22,Central Midfield,CM,€1.00m,SV Sandhausen,"End of loan Jun 30, 2023",In,
-3,1.FSV Mainz 05,Anderson LucoquiA. Lucoqui,25,Left-Back,LB,€600k,Hansa Rostock,"End of loan Jun 30, 2023",In,
-4,1.FSV Mainz 05,Ronaël Pierre-GabrielR. Pierre-Gabriel,25,Right-Back,RB,€3.50m,Espanyol,"End of loan Jun 30, 2023",In,
-5,1.FSV Mainz 05,Ben BobzienB. Bobzien,20,Right Winger,RW,€600k,SV Elversberg,"End of loan Jun 30, 2023",In,
-6,1.FSV Mainz 05,Angelo FulginiA. Fulgini,26,Attacking Midfield,AM,€9.00m,Lens,"End of loan Jun 30, 2023",In,
+0,1.FSV Mainz 05,Tom KraußT. Krauß,22,Central Midfield,CM,€7.00m,RB Leipzig,€5.00m,In,€5.00m
+1,1.FSV Mainz 05,Daniel BatzD. Batz,32,Goalkeeper,GK,€350k,Saarbrücken,?,In,
+2,1.FSV Mainz 05,Sepp van den BergS. van den Berg,21,Centre-Back,CB,€5.00m,Liverpool,loan transfer,In,
+3,1.FSV Mainz 05,Lucas LauxL. Laux,20,Centre-Back,CB,€175k,FSV Mainz 05 II,-,In,
+4,1.FSV Mainz 05,Merveille PapelaM. Papela,22,Central Midfield,CM,€1.00m,SV Sandhausen,"End of loan Jun 30, 2023",In,
+5,1.FSV Mainz 05,Anderson LucoquiA. Lucoqui,25,Left-Back,LB,€600k,Hansa Rostock,"End of loan Jun 30, 2023",In,
+6,1.FSV Mainz 05,Ronaël Pierre-GabrielR. Pierre-Gabriel,25,Right-Back,RB,€3.50m,Espanyol,"End of loan Jun 30, 2023",In,
+7,1.FSV Mainz 05,Ben BobzienB. Bobzien,20,Right Winger,RW,€600k,SV Elversberg,"End of loan Jun 30, 2023",In,
+8,1.FSV Mainz 05,Angelo FulginiA. Fulgini,26,Attacking Midfield,AM,€9.00m,Lens,"End of loan Jun 30, 2023",In,
 0,1.FSV Mainz 05,Angelo FulginiA. Fulgini,26,Attacking Midfield,AM,€9.00m,Lens,€7.20m,Out,€7.20m
 1,1.FSV Mainz 05,Marcus IngvartsenM. Ingvartsen,27,Centre-Forward,CF,€5.50m,Nordsjaelland,€2.95m,Out,€2.95m
 2,1.FSV Mainz 05,Marlon MustaphaM. Mustapha,22,Centre-Forward,CF,€1.00m,Como,€900k,Out,€900k
 3,1.FSV Mainz 05,Finn DahmenF. Dahmen,25,Goalkeeper,GK,€2.50m,FC Augsburg,free transfer,Out,
 4,1.FSV Mainz 05,Aarón MartínA. Martín,26,Left-Back,LB,€7.00m,Genoa,free transfer,Out,
 5,1.FSV Mainz 05,Lucas LauxL. Laux,20,Centre-Back,CB,€175k,SV Sandhausen,loan transfer,Out,
-0,Borussia Mönchengladbach,Franck HonoratF. Honorat,26,Right Winger,RW,€10.00m,Stade Brestois,€8.00m,In,€8.00m
-1,Borussia Mönchengladbach,Julian WeiglJ. Weigl,27,Defensive Midfield,DM,€10.00m,Benfica,€7.18m,In,€7.18m
-2,Borussia Mönchengladbach,Fabio ChiarodiaF. Chiarodia,18,Centre-Back,CB,€1.00m,Werder Bremen,€2.00m,In,€2.00m
-3,Borussia Mönchengladbach,Robin HackR. Hack,24,Left Winger,LW,€3.00m,Arm. Bielefeld,€1.10m,In,€1.10m
-4,Borussia Mönchengladbach,Lukas UllrichL. Ullrich,19,Left-Back,LB,€750k,Hertha BSC II,free transfer,In,
-5,Borussia Mönchengladbach,Grant-Leon RanosG. Ranos,19,Centre-Forward,CF,€1.00m,FC Bayern II,free transfer,In,
-6,Borussia Mönchengladbach,Ibrahim DigberekouI. Digberekou,18,Centre-Back,CB,-,M'gladbach U19,-,In,
-7,Borussia Mönchengladbach,Maximilian BrüllM. Brüll,20,Goalkeeper,GK,€75k,M'gladbach II,-,In,
-8,Borussia Mönchengladbach,Rocco ReitzR. Reitz,21,Central Midfield,CM,€800k,Sint-Truiden,"End of loan Jun 30, 2023",In,
-9,Borussia Mönchengladbach,Jordan BeyerJ. Beyer,23,Centre-Back,CB,€16.00m,Burnley,"End of loan Jun 30, 2023",In,
-10,Borussia Mönchengladbach,Moritz NicolasM. Nicolas,25,Goalkeeper,GK,€350k,Roda JC,"End of loan Jun 30, 2023",In,
-11,Borussia Mönchengladbach,Jonas KerskenJ. Kersken,22,Goalkeeper,GK,€125k,SV Meppen,"End of loan Jun 30, 2023",In,
+0,Borussia Mönchengladbach,Tomas CvancaraT. Cvancara,22,Centre-Forward,CF,€4.00m,Sparta Prague,€10.50m,In,€10.50m
+1,Borussia Mönchengladbach,Franck HonoratF. Honorat,26,Right Winger,RW,€10.00m,Stade Brestois,€8.00m,In,€8.00m
+2,Borussia Mönchengladbach,Julian WeiglJ. Weigl,27,Defensive Midfield,DM,€10.00m,Benfica,€7.18m,In,€7.18m
+3,Borussia Mönchengladbach,Fabio ChiarodiaF. Chiarodia,18,Centre-Back,CB,€1.00m,Werder Bremen,€2.00m,In,€2.00m
+4,Borussia Mönchengladbach,Robin HackR. Hack,24,Left Winger,LW,€3.00m,Arm. Bielefeld,€1.10m,In,€1.10m
+5,Borussia Mönchengladbach,Lukas UllrichL. Ullrich,19,Left-Back,LB,€750k,Hertha BSC II,free transfer,In,
+6,Borussia Mönchengladbach,Grant-Leon RanosG. Ranos,19,Centre-Forward,CF,€1.00m,FC Bayern II,free transfer,In,
+7,Borussia Mönchengladbach,Ibrahim DigberekouI. Digberekou,18,Centre-Back,CB,-,M'gladbach U19,-,In,
+8,Borussia Mönchengladbach,Maximilian BrüllM. Brüll,20,Goalkeeper,GK,€75k,M'gladbach II,-,In,
+9,Borussia Mönchengladbach,Jonas KerskenJ. Kersken,22,Goalkeeper,GK,€125k,SV Meppen,"End of loan Jun 30, 2023",In,
+10,Borussia Mönchengladbach,Rocco ReitzR. Reitz,21,Central Midfield,CM,€800k,Sint-Truiden,"End of loan Jun 30, 2023",In,
+11,Borussia Mönchengladbach,Jordan BeyerJ. Beyer,23,Centre-Back,CB,€16.00m,Burnley,"End of loan Jun 30, 2023",In,
+12,Borussia Mönchengladbach,Moritz NicolasM. Nicolas,25,Goalkeeper,GK,€350k,Roda JC,"End of loan Jun 30, 2023",In,
 0,Borussia Mönchengladbach,Jordan BeyerJ. Beyer,23,Centre-Back,CB,€16.00m,Burnley,€15.00m,Out,€15.00m
 1,Borussia Mönchengladbach,Jonas HofmannJ. Hofmann,30,Right Winger,RW,€13.00m,B. Leverkusen,€10.00m,Out,€10.00m
-2,Borussia Mönchengladbach,Ramy BensebainiR. Bensebaini,28,Left-Back,LB,€20.00m,Bor. Dortmund,free transfer,Out,
+2,Borussia Mönchengladbach,Marcus ThuramM. Thuram,25,Centre-Forward,CF,€32.00m,Inter,free transfer,Out,
 3,Borussia Mönchengladbach,Lars StindlL. Stindl,34,Attacking Midfield,AM,€1.00m,Karlsruher SC,free transfer,Out,
-4,Borussia Mönchengladbach,Marcus ThuramM. Thuram,25,Centre-Forward,CF,€32.00m,Inter,free transfer,Out,
+4,Borussia Mönchengladbach,Ramy BensebainiR. Bensebaini,28,Left-Back,LB,€20.00m,Bor. Dortmund,free transfer,Out,
 5,Borussia Mönchengladbach,Jonas KerskenJ. Kersken,22,Goalkeeper,GK,€125k,Arm. Bielefeld,loan transfer,Out,
 6,Borussia Mönchengladbach,Julian WeiglJ. Weigl,27,Defensive Midfield,DM,€10.00m,Benfica,"End of loan Jun 30, 2023",Out,
 0,1.FC Köln,Julian ChabotJ. Chabot,25,Centre-Back,CB,€5.50m,Sampdoria,€2.50m,In,€2.50m
@@ -199,8 +206,8 @@
 2,1.FC Köln,Jonas NickischJ. Nickisch,19,Goalkeeper,GK,€200k,RB Leipzig U19,free transfer,In,
 3,1.FC Köln,Leart PaqaradaL. Paqarada,28,Left-Back,LB,€2.00m,FC St. Pauli,free transfer,In,
 4,1.FC Köln,Luca WaldschmidtL. Waldschmidt,27,Second Striker,SS,€3.00m,VfL Wolfsburg,loan transfer,In,
-5,1.FC Köln,Damion DownsD. Downs,18,Centre-Forward,CF,€250k,1.FC Köln U19,-,In,
-6,1.FC Köln,Elias BakatukandaE. Bakatukanda,19,Centre-Back,CB,€250k,1.FC Köln U19,-,In,
+5,1.FC Köln,Elias BakatukandaE. Bakatukanda,19,Centre-Back,CB,€250k,1.FC Köln U19,-,In,
+6,1.FC Köln,Damion DownsD. Downs,18,Centre-Forward,CF,€250k,1.FC Köln U19,-,In,
 7,1.FC Köln,Ondrej DudaO. Duda,28,Attacking Midfield,AM,€3.40m,Hellas Verona,"End of loan Jun 30, 2023",In,
 8,1.FC Köln,Noah KatterbachN. Katterbach,22,Left-Back,LB,€1.00m,Hamburger SV,"End of loan Jun 30, 2023",In,
 9,1.FC Köln,Jonas UrbigJ. Urbig,19,Goalkeeper,GK,€1.50m,Jahn Regensburg,"End of loan Jun 30, 2023",In,
@@ -208,12 +215,12 @@
 0,1.FC Köln,Ondrej DudaO. Duda,28,Attacking Midfield,AM,€3.40m,Hellas Verona,€2.70m,Out,€2.70m
 1,1.FC Köln,Ellyes SkhiriE. Skhiri,28,Defensive Midfield,DM,€13.00m,E. Frankfurt,free transfer,Out,
 2,1.FC Köln,Marvin ObuzM. Obuz,21,Left Winger,LW,€300k,RW Essen,loan transfer,Out,
-3,1.FC Köln,Tim LemperleT. Lemperle,21,Centre-Forward,CF,€1.50m,Greuther Fürth,loan transfer,Out,
-4,1.FC Köln,Jonas UrbigJ. Urbig,19,Goalkeeper,GK,€1.50m,Greuther Fürth,loan transfer,Out,
-5,1.FC Köln,Jonas HectorJ. Hector,33,Left-Back,LB,-,Retired,-,Out,
-6,1.FC Köln,Timo HornTimo Horn,30,Goalkeeper,GK,€1.50m,Without Club,-,Out,
+3,1.FC Köln,Jonas UrbigJ. Urbig,19,Goalkeeper,GK,€1.50m,Greuther Fürth,loan transfer,Out,
+4,1.FC Köln,Tim LemperleT. Lemperle,21,Centre-Forward,CF,€1.50m,Greuther Fürth,loan transfer,Out,
+5,1.FC Köln,Kingsley SchindlerK. Schindler,29,Right Midfield,RM,€1.00m,Without Club,-,Out,
+6,1.FC Köln,Jonas HectorJ. Hector,33,Left-Back,LB,-,Retired,-,Out,
 7,1.FC Köln,Sebastian AnderssonS. Andersson,31,Centre-Forward,CF,€700k,Without Club,-,Out,
-8,1.FC Köln,Kingsley SchindlerK. Schindler,29,Right Midfield,RM,€1.00m,Without Club,-,Out,
+8,1.FC Köln,Timo HornTimo Horn,30,Goalkeeper,GK,€1.50m,Without Club,-,Out,
 9,1.FC Köln,Julian ChabotJ. Chabot,25,Centre-Back,CB,€5.50m,Sampdoria,"End of loan Jun 30, 2023",Out,
 0,TSG 1899 Hoffenheim,Marius BülterM. Bülter,30,Left Winger,LW,€3.00m,FC Schalke 04,€3.00m,In,€3.00m
 1,TSG 1899 Hoffenheim,Julian JustvanJ. Justvan,25,Attacking Midfield,AM,€1.50m,SC Paderborn,€1.50m,In,€1.50m
